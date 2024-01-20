@@ -11,9 +11,9 @@ El área de tecnologías para el aprendizaje, perteneciente a la Dirección de E
 
   Hola k onda
 
-###### **No Estructurado**
+###### ***No Estructurado***
 
-###### **Estructurado**
+###### ***Estructurado***
 
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
