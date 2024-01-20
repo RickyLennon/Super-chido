@@ -27,6 +27,11 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 *Interés*
 - ¿Qué tema te gusto más?: Biología (Sistema Circulatorio) / Matemáticas (Operaciones con Polinomios) / Química (Tabla Periódica).    
 
+*Valoraciones de utilidad en los recursos*
+- El material que revisé me ayudó a complementar mis aprendizajes sobre el tema visto en clase: 1 - 5.
+- Pude aclarar dudas que tenía acerca del tema visto en clase: 1 - 5.
+- Las preguntas de Autoevaluación del Recurso Educativo Digital me ayudarón a reforzar mi aprendizaje: 1 - 5. 
+
 
 
 
