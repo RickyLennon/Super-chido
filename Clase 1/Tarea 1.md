@@ -41,7 +41,7 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 *Sugerencia*
 - Sugiere alguna Unidad de Aprendizaje o Tema que te gustaría ver que tenga Recursos Educativos Digitales: Respuesta libre.  
 
-###### **Nota**
+##### **Nota**
 
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
