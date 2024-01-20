@@ -24,6 +24,10 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 - Tipo de Dispositivo que usaste: Teléfono Inteligente / Laptop.
 - Sistema Operativo de tu Dispositivo: iOS / Android.
 
+*Interés*
+- ¿Qué tema te gusto más?: Biología (Sistema Circulatorio) / Matemáticas (Operaciones con Polinomios) / Química (Tabla Periódica).    
+
+
 
 
 
