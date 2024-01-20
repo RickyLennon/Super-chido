@@ -16,6 +16,6 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 ###### ***Estructurado***
 
 *Usuarios*
-- Tiempo (día y hora en que se contestó): 26/10/2017  6:22:27 p.m. - 25/03/2021  2:30:13 p.m.   
+- Tiempo (día y hora en que se contestó): 26/10/2017  6:22:27 p.m. / 25/03/2021  2:30:13 p.m.   
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
