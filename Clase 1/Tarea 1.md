@@ -7,11 +7,11 @@ Repositorio compartido en el Excel de Teams.
 
 ###### Punto 3: Describir una base de datos y sus relaciones de manera no estructurada con la que trabajar durante el tetramestre. Agrega el tipo de dato que supones tendrá cada uno de tus atributos.
 
-El área de tecnologías para el aprendizaje, perteneciente a la Dirección de Educación Digital de la UANL, emplea "Recursos educativos digitales".
-
-  Hola k onda
+El área de tecnologías para el aprendizaje, perteneciente a la Dirección de Educación Digital de la UANL, emplea "Recursos Educativos Digitales". Dichos recursos vienen siendo plataformas de aprendizaje en línea, aplicaciones de realidad aumentada y virtual, blogs educativos, etc. Que en este caso, el área ha aplicado a los(as) estudiantes de preparatoria y universidad pertenecientes a la UANL. 
 
 ###### ***No Estructurado***
+
+Los Recursos Educativos Digitales se han estado usando en la UANL como una manera auxiliar de mejorar el rendimiento académico del alumno(a) en sus cursos. En la encuesta aplicada, los alumnos(as) comienzan registrando una fecha y hora específica; no se sabe el nombre del alumno(a), solo en que institución estudia. Comenzamos preguntando que app, dispositivo y sistema operativo usó. Se pregunta el tema que más gustó estudiar. Continuarán una serie de valoraciones con las que se busca saber si los recursos son o no de utilidad para el estudiante (El material que revisé me ayudó a complementar mis aprendizajes sobre el tema visto en clase, Pude aclarar dudas que tenía acerca del tema visto en clase, Las preguntas de Autoevaluación del Recurso Educativo Digital me ayudarón a reforzar mi aprendizaje). Luego seguirán valoraciones que nos permitan saber la experiencia durante el uso (La APP para este Recurso Educativo Digital se descarga fácilmente, No tuve algún problema al visualizar los contenidos de este Recurso Educativo Digital, En mi dispositivo no se veían los contenidos del Recurso Educativo Digital; En general, ¿Cómo fue tu experiencia con el Recurso Educativo Digital utilizado?). Se concluirá preguntando por alguna sugerencia de Tema o Unidad de Aprendizaje a incluirse como Recurso Educativo Digital.
 
 ###### ***Estructurado***
 
