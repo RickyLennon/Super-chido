@@ -32,7 +32,11 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 - Pude aclarar dudas que tenía acerca del tema visto en clase: 1 - 5.
 - Las preguntas de Autoevaluación del Recurso Educativo Digital me ayudarón a reforzar mi aprendizaje: 1 - 5. 
 
-
+*Valoraciones de experiencia en los recursos*
+- La APP para este Recurso Educativo Digital se descarga fácilmente: 1 - 5.  
+- No tuve algún problema al visualizar los contenidos de este Recurso Educativo Digital: 1 - 5. 
+- En mi dispositivo no se veían los contenidos del Recurso Educativo Digital: 1 - 5.
+- En general: ¿Cómo fue tu experiencia con el Recurso Educativo Digital utilizado?: 1 - 5.
 
 
 
