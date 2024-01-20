@@ -43,5 +43,8 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 
 ##### **{Nota}** En las categorías de valoraciones se toma como referencia: 1 = Muy malo, 2 = Malo, 3 = Regular, 4 = Bueno, 5 = Muy bueno (la interpetación de las valoraciones puede cambiar conforme lo solicitado en la encuesta).
 
+##### **{Tipo de dato de los atributos}** 
+
+
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
