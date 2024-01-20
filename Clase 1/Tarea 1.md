@@ -16,7 +16,7 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 ###### ***Estructurado***
 
 [Usuarios]
--Fecha
+- Fecha
 
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
