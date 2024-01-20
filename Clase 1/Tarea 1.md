@@ -38,6 +38,9 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 - En mi dispositivo no se veían los contenidos del Recurso Educativo Digital: 1 - 5.
 - En general: ¿Cómo fue tu experiencia con el Recurso Educativo Digital utilizado?: 1 - 5.
 
+*Sugerencia*
+Sugiere alguna Unidad de Aprendizaje o Tema que te gustaría ver que tenga Recursos Educativos Digitales: Respuesta libre.  
+
 
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
