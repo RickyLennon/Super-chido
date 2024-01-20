@@ -17,5 +17,14 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 
 *Usuarios*
 - Tiempo (día y hora en que se contestó): 26-10-2017  6:22:27 p.m. / 25-03-2021  2:30:13 p.m.   
+- Facultad/Preparatoria: Preparatoria 16 / Ciencias Físico-Matemáticas.
+
+  *Equipo*
+  - App que utilizaste: Aurasma / HP Reveal.
+  - Tipo de Dispositivo que usaste: Teléfono Inteligente / Laptop.
+  - Sistema Operativo de tu Dispositivo: iOS / Android.
+
+
+
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
