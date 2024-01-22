@@ -74,7 +74,7 @@ Características de mi elección (empezando con la más importante):
 - 8. Compatible con SQL.
 - 9. Extenciones y nuevas características aplicables a bases de datos NoSQL.
 
-_Citas_
+***Citas***
 
 
 
