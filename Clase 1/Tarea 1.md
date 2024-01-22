@@ -95,7 +95,7 @@ Características de mi elección (empezando con la más importante):
 
 ###### Punto 5: Subir esta descripción en un archivo markdown o PDF nombrado claramente.
 
-Archivo subido con éxito.
+Archivo subido con éxito en Markdown.
 
 
 
