@@ -30,7 +30,7 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 ###### **{Tipo de dato del atributo: Textual}**  
 
 *Interés*
-- ¿Qué tema te gusto más?: Biología (Sistema Circulatorio) / Matemáticas (Operaciones con Polinomios) / Química (Tabla Periódica).    
+- ¿Qué tema te gustó más?: Biología (Sistema Circulatorio) / Matemáticas (Operaciones con Polinomios) / Química (Tabla Periódica).    
 ###### **{Tipo de dato del atributo: Textual}**  
 
 *Valoraciones de utilidad en los recursos*
@@ -42,13 +42,13 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 
 *Valoraciones de experiencia en los recursos*
 - La APP para este Recurso Educativo Digital se descarga fácilmente: 1 - 5.  
-###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - No tuve algún problema al visualizar los contenidos de este Recurso Educativo Digital: 1 - 5. 
-###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - En mi dispositivo no se veían los contenidos del Recurso Educativo Digital: 1 - 5.
-###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - En general: ¿Cómo fue tu experiencia con el Recurso Educativo Digital utilizado?: 1 - 5.
-###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 
 *Sugerencia*
 - Sugiere alguna Unidad de Aprendizaje o Tema que te gustaría ver que tenga Recursos Educativos Digitales: Química / Biología / Física y Matemáticas .  
