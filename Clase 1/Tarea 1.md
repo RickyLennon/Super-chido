@@ -93,6 +93,10 @@ Características de mi elección (empezando con la más importante):
 
 ###### Paralelismo. (28 de noviembre de 2022). IBM. https://www.ibm.com/docs/es/db2/11.1?topic=environments-parallelism.   
 
+###### Punto 5: Subir esta descripción en un archivo markdown o PDF nombrado claramente.
+
+Archivo subido con éxito.
+
 
 
 
