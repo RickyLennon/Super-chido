@@ -65,6 +65,18 @@ Para propósitos de la clase, elijo trabajar con la base de datos: MariaDB.
 
 Características de mi elección (empezando con la más importante):
 - 1. Estaba descrita como la que tiene menos desventajas; si la comparamos con las demás SGBD relacionales. 
+- 2. Acceso gratuito.
+- 3. Compatible con Windows, Linux Y macOS. 
+- 4. Aumento en motores de almacenamiento; incluyendo gestión y recuperación de información.
+- 5. Tiene gran capacidad de ampliación/adaptación/respuesta ante los cambios; tanto para bases de datos pequeñas como grandes (escalabilidad).
+- 6. Rapidez en las consultas de varias aplicaciones al mismo tiempo (consultas en paralelo).
+- 7. Envío y recepción coherente e íntegra de datos a gran velocidad (transacciones); aún en caso de fallos o errores del sistema. 
+- 8. Compatible con SQL.
+- 9. Extenciones y nuevas características aplicables a bases de datos NoSQL.
+
+_Citas_
+
+
 
 
 
