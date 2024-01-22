@@ -76,7 +76,10 @@ Características de mi elección (empezando con la más importante):
 - 9. Extenciones y nuevas características aplicables a bases de datos NoSQL.
 
 ##### ***Citas***
-###### hola que tal 
+Apellido, A., Apellido, B., y Apellido, C. (20 de mayo de 2020). Título del artículo de la página web. Nombre del sitio web. https://url.com 
+###### Marín, R. (16 de abril de 2019). Los gestores de bases de datos más usados en la actualidad. Revistadigital INESEM. https://www.inesem.es/revistadigital/informatica-y-tics/los-gestores-de-bases-de-datos-mas-usados/.
+
+
 
 
 
