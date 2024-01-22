@@ -35,6 +35,7 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 
 *Valoraciones de utilidad en los recursos*
 - El material que revisé me ayudó a complementar mis aprendizajes sobre el tema visto en clase: 1 - 5.
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}** 
 - Pude aclarar dudas que tenía acerca del tema visto en clase: 1 - 5.
 ###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - Las preguntas de Autoevaluación del Recurso Educativo Digital me ayudarón a reforzar mi aprendizaje: 1 - 5. 
