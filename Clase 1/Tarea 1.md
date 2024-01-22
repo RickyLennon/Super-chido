@@ -16,35 +16,44 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 ###### ***Estructurado***
 
 *Usuarios*
-- Tiempo (día y hora en que se contestó): 26-10-2017  6:22:27 p.m. / 25-03-2021  2:30:13 p.m.   
+- Tiempo (día y hora en que se contestó): 26-10-2017  6:22:27 p.m. / 25-03-2021  2:30:13 p.m.
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**    
 - Facultad/Preparatoria: Preparatoria 16 / Ciencias Físico-Matemáticas.
+###### **{Tipo de dato del atributo: Textual}**    
 
 *Equipo*
 - App que utilizaste: Aurasma / HP Reveal.
+###### **{Tipo de dato del atributo: Textual}**  
 - Tipo de Dispositivo que usaste: Teléfono Inteligente / Laptop.
+###### **{Tipo de dato del atributo: Textual}**  
 - Sistema Operativo de tu Dispositivo: iOS / Android.
+###### **{Tipo de dato del atributo: Textual}**  
 
 *Interés*
 - ¿Qué tema te gusto más?: Biología (Sistema Circulatorio) / Matemáticas (Operaciones con Polinomios) / Química (Tabla Periódica).    
+###### **{Tipo de dato del atributo: Textual}**  
 
 *Valoraciones de utilidad en los recursos*
 - El material que revisé me ayudó a complementar mis aprendizajes sobre el tema visto en clase: 1 - 5.
 - Pude aclarar dudas que tenía acerca del tema visto en clase: 1 - 5.
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - Las preguntas de Autoevaluación del Recurso Educativo Digital me ayudarón a reforzar mi aprendizaje: 1 - 5. 
+###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 
 *Valoraciones de experiencia en los recursos*
 - La APP para este Recurso Educativo Digital se descarga fácilmente: 1 - 5.  
+###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - No tuve algún problema al visualizar los contenidos de este Recurso Educativo Digital: 1 - 5. 
+###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - En mi dispositivo no se veían los contenidos del Recurso Educativo Digital: 1 - 5.
+###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 - En general: ¿Cómo fue tu experiencia con el Recurso Educativo Digital utilizado?: 1 - 5.
+###### **{Tipo de dato del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
 
 *Sugerencia*
-- Sugiere alguna Unidad de Aprendizaje o Tema que te gustaría ver que tenga Recursos Educativos Digitales: Respuesta libre.  
+- Sugiere alguna Unidad de Aprendizaje o Tema que te gustaría ver que tenga Recursos Educativos Digitales: Química / Biología / Física y Matemáticas .  
+###### **{Tipo de dato del atributo: Textual}**  
 
 ##### **{Nota}** En las categorías de valoraciones se toma como referencia: 1 = Muy malo, 2 = Malo, 3 = Regular, 4 = Bueno, 5 = Muy bueno (la interpetación de las valoraciones puede cambiar conforme lo solicitado en la encuesta).
-
-##### **{Tipo de dato de los atributos}** 
-
-
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
