@@ -17,44 +17,56 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 
 *Usuarios*
 - Tiempo (día y hora en que se contestó): 26-10-2017  6:22:27 p.m. / 25-03-2021  2:30:13 p.m.
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**    
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}**    
 - Facultad/Preparatoria: Preparatoria 16 / Ciencias Físico-Matemáticas.
-###### **{Tipo de dato del atributo: Textual}**    
+###### **{Tipo de dato del atributo: textual}**    
 
 *Equipo*
 - App que utilizaste: Aurasma / HP Reveal.
-###### **{Tipo de dato del atributo: Textual}**  
+###### **{Tipo de dato del atributo: textual}**  
 - Tipo de Dispositivo que usaste: Teléfono Inteligente / Laptop.
-###### **{Tipo de dato del atributo: Textual}**  
+###### **{Tipo de dato del atributo: textual}**  
 - Sistema Operativo de tu Dispositivo: iOS / Android.
-###### **{Tipo de dato del atributo: Textual}**  
+###### **{Tipo de dato del atributo: textual}**  
 
 *Interés*
 - ¿Qué tema te gustó más?: Biología (Sistema Circulatorio) / Matemáticas (Operaciones con Polinomios) / Química (Tabla Periódica).    
-###### **{Tipo de dato del atributo: Textual}**  
+###### **{Tipo de dato del atributo: textual}**  
 
 *Valoraciones de utilidad en los recursos*
 - El material que revisé me ayudó a complementar mis aprendizajes sobre el tema visto en clase: 1 - 5.
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}** 
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}** 
 - Pude aclarar dudas que tenía acerca del tema visto en clase: 1 - 5.
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}**  
 - Las preguntas de Autoevaluación del Recurso Educativo Digital me ayudarón a reforzar mi aprendizaje: 1 - 5. 
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}**  
 
 *Valoraciones de experiencia en los recursos*
 - La APP para este Recurso Educativo Digital se descarga fácilmente: 1 - 5.  
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}**  
 - No tuve algún problema al visualizar los contenidos de este Recurso Educativo Digital: 1 - 5. 
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}**  
 - En mi dispositivo no se veían los contenidos del Recurso Educativo Digital: 1 - 5.
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}**  
 - En general: ¿Cómo fue tu experiencia con el Recurso Educativo Digital utilizado?: 1 - 5.
-###### **{Tipos de datos del atributo: Númericos (enteros) y Estructuras de datos (listas)}**  
+###### **{Tipos de datos del atributo: númericos (enteros) y estructuras de datos (listas)}**  
 
 *Sugerencia*
 - Sugiere alguna Unidad de Aprendizaje o Tema que te gustaría ver que tenga Recursos Educativos Digitales: Química / Biología / Física y Matemáticas .  
-###### **{Tipo de dato del atributo: Textual}**  
+###### **{Tipo de dato del atributo: textual}**  
 
 ##### **{Nota}** En las categorías de valoraciones se toma como referencia: 1 = Muy malo, 2 = Malo, 3 = Regular, 4 = Bueno, 5 = Muy bueno (la interpetación de las valoraciones puede cambiar conforme lo solicitado en los atributos).
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
+
+Dentro de los SGBD investigados, comenzaré eligiendo uno que sea relacional: ya que son los más utilizados, tienen su información estructurada en filas de tabla y son los más recomendables para introducirse al mundo de las bases de datos.
+
+Para propósitos de la clase, elijo trabajar con la base de datos: MariaDB. 
+
+Características de mi elección (empezando con la más importante):
+- 1. Estaba descrita como la que tiene menos desventajas; si la comparamos con las demás SGBD relacionales. 
+
+
+
+
+
