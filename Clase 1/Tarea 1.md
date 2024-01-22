@@ -54,6 +54,6 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 - Sugiere alguna Unidad de Aprendizaje o Tema que te gustaría ver que tenga Recursos Educativos Digitales: Química / Biología / Física y Matemáticas .  
 ###### **{Tipo de dato del atributo: Textual}**  
 
-##### **{Nota}** En las categorías de valoraciones se toma como referencia: 1 = Muy malo, 2 = Malo, 3 = Regular, 4 = Bueno, 5 = Muy bueno (la interpetación de las valoraciones puede cambiar conforme lo solicitado en la encuesta).
+##### **{Nota}** En las categorías de valoraciones se toma como referencia: 1 = Muy malo, 2 = Malo, 3 = Regular, 4 = Bueno, 5 = Muy bueno (la interpetación de las valoraciones puede cambiar conforme lo solicitado en los atributos).
 
 ###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
