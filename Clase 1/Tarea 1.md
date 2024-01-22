@@ -76,8 +76,26 @@ Características de mi elección (empezando con la más importante):
 - 9. Extenciones y nuevas características aplicables a bases de datos NoSQL.
 
 ##### ***Citas***
-Apellido, A., Apellido, B., y Apellido, C. (20 de mayo de 2020). Título del artículo de la página web. Nombre del sitio web. https://url.com 
+
 ###### Marín, R. (16 de abril de 2019). Los gestores de bases de datos más usados en la actualidad. Revistadigital INESEM. https://www.inesem.es/revistadigital/informatica-y-tics/los-gestores-de-bases-de-datos-mas-usados/.
+
+###### Introducción al sistema gestor de base de datos. (12 de mayo de 2020). Digital Guide IONOS. https://www.ionos.mx/digitalguide/hosting/cuestiones-tecnicas/sistema-gestor-de-base-de-datos-sgbd/.
+
+###### Ravoof, S. (25 de agosto de 2023). MariaDB vs PostgreSQL: 14 Diferencias Críticas. kinsta. https://kinsta.com/es/blog/mariadb-vs-postgresql/.
+
+###### ¿Qué es MariaDB?. (s.f.). PURESTORAGE. https://www.purestorage.com/es/knowledge/what-is-mariadb.html#:~:text=MariaDB%20est%C3%A1%20escrito%20en%20C,incluidos%20Windows%2C%20Linux%20y%20macOS.
+
+###### Campos, H., Saisang, v-kents. (21 de julio de 2023). ¿Qué es la escalabilidad?. Microsoft Learn. https://learn.microsoft.com/es-es/biztalk/core/what-is-scalability.
+
+###### García, E. (06 de febrero de 2021). Motores de almacenamiento en MySQL. códigofacilito. https://codigofacilito.com/articulos/motores-almacenamiento-mysql.
+
+###### ¿Qué es una transacción de base de datos? (18 de enero de 2023). AppMaster. https://appmaster.io/es/blog/que-es-una-transaccion-de-base-de-datos.
+
+###### Paralelismo. (28 de noviembre de 2022). IBM. https://www.ibm.com/docs/es/db2/11.1?topic=environments-parallelism.   
+
+
+
+
 
 
 
