@@ -1,11 +1,11 @@
 # Tarea 1
-###### Punto 1: Crear un repositorio público de Github
+###### Punto 1: crear un repositorio público de Github
 Repositorio creado.
 
-###### Punto 2: Compartir el repositorio en el Teams correspondiente 
+###### Punto 2: compartir el repositorio en el Teams correspondiente 
 Repositorio compartido en el Excel de Teams.
 
-###### Punto 3: Describir una base de datos y sus relaciones de manera estructurada y no estructurada con la que trabajar durante el tetramestre. Agrega el tipo de dato que supones tendrá cada uno de tus atributos.
+###### Punto 3: describir una base de datos y sus relaciones de manera estructurada y no estructurada con la que trabajar durante el tetramestre. Agrega el tipo de dato que supones tendrá cada uno de tus atributos.
 
 El área de tecnologías para el aprendizaje, perteneciente a la Dirección de Educación Digital de la UANL, emplea "Recursos Educativos Digitales". Dichos recursos vienen siendo plataformas de aprendizaje en línea, aplicaciones de realidad aumentada y virtual, blogs educativos, etc. Que en este caso, el área ha aplicado a los(as) estudiantes de preparatoria y universidad pertenecientes a la UANL. 
 
@@ -58,7 +58,7 @@ Los Recursos Educativos Digitales se han estado usando en la UANL como una maner
 ##### **{Nota}** 
 ##### En las categorías de valoraciones se toma como referencia: 1 = Muy malo, 2 = Malo, 3 = Regular, 4 = Bueno, 5 = Muy bueno (la interpetación de las valoraciones puede cambiar conforme lo solicitado en los atributos).
 
-###### Punto 4: Investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
+###### Punto 4: investigar diferentes SGBD, elegir alguno y describirlo. Citar adecuadamente. Plagio invalida tarea.
 
 Dentro de los SGBD investigados, comenzaré eligiendo uno que sea relacional: ya que son los más utilizados, tienen su información estructurada en filas de tabla y son los más recomendables para introducirse al mundo de las bases de datos.
 
@@ -93,7 +93,7 @@ Características de mi elección (empezando con la más importante):
 
 ###### Paralelismo. (28 de noviembre de 2022). IBM. https://www.ibm.com/docs/es/db2/11.1?topic=environments-parallelism.   
 
-###### Punto 5: Subir esta descripción en un archivo markdown o PDF nombrado claramente.
+###### Punto 5: subir esta descripción en un archivo markdown o PDF nombrado claramente.
 
 Archivo subido con éxito en Markdown.
 
