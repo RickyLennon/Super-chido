@@ -1,0 +1,1135 @@
+Ido,Idp,Fecha,Nom_art,Tipo_art,Servicio,Precio_art,Cantidad,Monto_trans,Tipo_trans,GPR,Hora_venta,Id_Orden,Id_Pagar,Ref
+1.221,1.222,2022-01-04,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Efectivo,Sra.,Tarde/noche,1.221,1.222,1
+2.221,2.222,2022-01-05,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Virtual,Sr.,Tarde,2.221,2.222,2
+3.221,3.222,2022-01-06,Panipuri,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sra.,Tarde/noche,3.221,3.222,3
+4.221,4.222,2022-01-07,Vadapav,Comida rapida,Domicilio,20.00,5,100.00,Efectivo,Sr.,Maniana,4.221,4.222,4
+5.221,5.222,2022-01-07,Jugo cania de azucar,Bebidas,Restaurante,25.00,7,175.00,Efectivo,Sra.,Media noche,5.221,5.222,5
+6.221,6.222,2022-01-07,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Noche,6.221,6.222,6
+7.221,7.222,2022-01-07,Cafe frio,Bebidas,Domicilio,40.00,13,520.00,Efectivo,Sra.,Tarde/noche,7.221,7.222,7
+8.221,8.222,2022-01-07,Cafe frio,Bebidas,Restaurante,40.00,6,240.00,Virtual,Sra.,Tarde/noche,8.221,8.222,8
+9.221,9.222,2022-01-08,Frankie,Comida rapida,Domicilio,50.00,5,250.00,Virtual,Sra.,Maniana,9.221,9.222,9
+10.221,10.222,2022-01-09,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Virtual,Sr.,Noche,10.221,10.222,10
+11.221,11.222,2022-01-09,Panipuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sra.,Tarde/noche,11.221,11.222,11
+12.221,12.222,2022-01-10,Vadapav,Comida rapida,Domicilio,20.00,4,80.00,Efectivo,Sra.,Tarde/noche,12.221,12.222,12
+13.221,13.222,2022-01-10,Aalopuri,Comida rapida,Domicilio,20.00,9,180.00,Efectivo,Sra.,Tarde/noche,13.221,13.222,13
+14.221,14.222,2022-01-10,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sr.,Maniana,14.221,14.222,14
+15.221,15.222,2022-01-10,Sandwich,Comida rapida,Restaurante,60.00,13,780.00,Efectivo,Sra.,Maniana,15.221,15.222,15
+16.221,16.222,2022-01-11,Aalopuri,Comida rapida,Domicilio,20.00,12,240.00,Virtual,Sr.,Maniana,16.221,16.222,16
+17.221,17.222,2022-01-11,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sra.,Tarde,17.221,17.222,17
+18.221,18.222,2022-01-11,Panipuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sra.,Tarde/noche,18.221,18.222,18
+19.221,19.222,2022-01-12,Frankie,Comida rapida,Domicilio,50.00,8,400.00,Virtual,Sra.,Tarde,19.221,19.222,19
+20.221,20.222,2022-01-12,Sandwich,Comida rapida,Restaurante,60.00,7,420.00,Virtual,Sra.,Maniana,20.221,20.222,20
+21.221,21.222,2022-01-12,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sra.,Tarde,21.221,21.222,21
+22.221,22.222,2022-02-04,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Efectivo,Sr.,Tarde,22.221,22.222,22
+23.221,23.222,2022-02-04,Cafe frio,Bebidas,Domicilio,40.00,15,600.00,Efectivo,Sr.,Media noche,23.221,23.222,23
+24.221,24.222,2022-02-05,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Cheque,Sra.,Noche,24.221,24.222,24
+25.221,25.222,2022-02-06,Cafe frio,Bebidas,Domicilio,40.00,4,160.00,Efectivo,Sra.,Tarde/noche,25.221,25.222,25
+26.221,26.222,2022-02-07,Cafe frio,Bebidas,Domicilio,40.00,10,400.00,Virtual,Sr.,Tarde,26.221,26.222,26
+27.221,27.222,2022-02-07,Cafe frio,Bebidas,Restaurante,40.00,1,40.00,Efectivo,Sr.,Media noche,27.221,27.222,27
+28.221,28.222,2022-02-07,Panipuri,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sra.,Media noche,28.221,28.222,28
+29.221,29.222,2022-02-07,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Efectivo,Sra.,Media noche,29.221,29.222,29
+30.221,30.222,2022-02-07,Jugo cania de azucar,Bebidas,Domicilio,25.00,10,250.00,Virtual,Sra.,Tarde/noche,30.221,30.222,30
+31.221,31.222,2022-02-07,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sr.,Tarde/noche,31.221,31.222,31
+32.221,32.222,2022-02-08,Cafe frio,Bebidas,Domicilio,40.00,7,280.00,Virtual,Sr.,Tarde/noche,32.221,32.222,32
+33.221,33.222,2022-02-08,Panipuri,Comida rapida,Restaurante,20.00,4,80.00,Efectivo,Sra.,Noche,33.221,33.222,33
+34.221,34.222,2022-02-08,Cafe frio,Bebidas,Domicilio,40.00,8,320.00,Efectivo,Sra.,Tarde,34.221,34.222,34
+35.221,35.222,2022-02-10,Jugo cania de azucar,Bebidas,Restaurante,25.00,8,200.00,Virtual,Sr.,Tarde/noche,35.221,35.222,35
+36.221,36.222,2022-02-10,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Virtual,Sra.,Noche,36.221,36.222,36
+37.221,37.222,2022-02-10,Vadapav,Comida rapida,Restaurante,20.00,12,240.00,Efectivo,Sr.,Tarde/noche,37.221,37.222,37
+38.221,38.222,2022-02-10,Cafe frio,Bebidas,Restaurante,40.00,2,80.00,Virtual,Sr.,Maniana,38.221,38.222,38
+39.221,39.222,2022-02-10,Jugo cania de azucar,Bebidas,Domicilio,25.00,5,125.00,Virtual,Sr.,Tarde,39.221,39.222,39
+40.221,40.222,2022-02-10,Frankie,Comida rapida,Domicilio,50.00,2,100.00,Efectivo,Sra.,Maniana,40.221,40.222,40
+41.221,41.222,2022-02-11,Vadapav,Comida rapida,Domicilio,20.00,8,160.00,Efectivo,Sra.,Media noche,41.221,41.222,41
+42.221,42.222,2022-02-11,Frankie,Comida rapida,Domicilio,50.00,4,200.00,Virtual,Sr.,Maniana,42.221,42.222,42
+43.221,43.222,2022-02-11,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sra.,Media noche,43.221,43.222,43
+44.221,44.222,2022-02-11,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Cheque,Sra.,Noche,44.221,44.222,44
+45.221,45.222,2022-02-11,Sandwich,Comida rapida,Domicilio,60.00,12,720.00,Virtual,Sr.,Maniana,45.221,45.222,45
+46.221,46.222,2022-02-12,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Virtual,Sra.,Maniana,46.221,46.222,46
+47.221,47.222,2022-02-12,Sandwich,Comida rapida,Domicilio,60.00,15,900.00,Efectivo,Sra.,Noche,47.221,47.222,47
+48.221,48.222,2022-02-12,Cafe frio,Bebidas,Restaurante,40.00,6,240.00,Cheque,Sra.,Tarde/noche,48.221,48.222,48
+49.221,49.222,2022-03-04,Sandwich,Comida rapida,Restaurante,60.00,1,60.00,Efectivo,Sra.,Maniana,49.221,49.222,49
+50.221,50.222,2022-03-04,Aalopuri,Comida rapida,Restaurante,20.00,10,200.00,Virtual,Sra.,Media noche,50.221,50.222,50
+51.221,51.222,2022-03-04,Panipuri,Comida rapida,Restaurante,20.00,11,220.00,Virtual,Sra.,Noche,51.221,51.222,51
+52.221,52.222,2022-03-05,Jugo cania de azucar,Bebidas,Restaurante,25.00,9,225.00,Efectivo,Sr.,Tarde/noche,52.221,52.222,52
+53.221,53.222,2022-03-05,Vadapav,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sr.,Tarde/noche,53.221,53.222,53
+54.221,54.222,2022-03-05,Panipuri,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sra.,Maniana,54.221,54.222,54
+55.221,55.222,2022-03-05,Sandwich,Comida rapida,Domicilio,60.00,8,480.00,Efectivo,Sr.,Tarde/noche,55.221,55.222,55
+56.221,56.222,2022-03-07,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Cheque,Sr.,Noche,56.221,56.222,56
+57.221,57.222,2022-03-07,Cafe frio,Bebidas,Restaurante,40.00,2,80.00,Virtual,Sra.,Media noche,57.221,57.222,57
+58.221,58.222,2022-03-07,Sandwich,Comida rapida,Restaurante,60.00,2,120.00,Virtual,Sra.,Tarde/noche,58.221,58.222,58
+59.221,59.222,2022-03-08,Vadapav,Comida rapida,Restaurante,20.00,1,20.00,Virtual,Sr.,Media noche,59.221,59.222,59
+60.221,60.222,2022-03-08,Jugo cania de azucar,Bebidas,Domicilio,25.00,7,175.00,Efectivo,Sr.,Maniana,60.221,60.222,60
+61.221,61.222,2022-03-09,Aalopuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sr.,Tarde/noche,61.221,61.222,61
+62.221,62.222,2022-03-09,Jugo cania de azucar,Bebidas,Restaurante,25.00,13,325.00,Cheque,Sra.,Media noche,62.221,62.222,62
+63.221,63.222,2022-03-10,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Virtual,Sra.,Tarde,63.221,63.222,63
+64.221,64.222,2022-03-10,Vadapav,Comida rapida,Restaurante,20.00,2,40.00,Efectivo,Sra.,Maniana,64.221,64.222,64
+65.221,65.222,2022-03-10,Jugo cania de azucar,Bebidas,Domicilio,25.00,6,150.00,Cheque,Sr.,Media noche,65.221,65.222,65
+66.221,66.222,2022-03-10,Frankie,Comida rapida,Domicilio,50.00,13,650.00,Efectivo,Sr.,Maniana,66.221,66.222,66
+67.221,67.222,2022-03-11,Frankie,Comida rapida,Restaurante,50.00,6,300.00,Efectivo,Sr.,Tarde,67.221,67.222,67
+68.221,68.222,2022-03-11,Cafe frio,Bebidas,Domicilio,40.00,10,400.00,Efectivo,Sra.,Noche,68.221,68.222,68
+69.221,69.222,2022-03-12,Aalopuri,Comida rapida,Restaurante,20.00,1,20.00,Cheque,Sra.,Maniana,69.221,69.222,69
+70.221,70.222,2022-03-12,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Virtual,Sr.,Tarde/noche,70.221,70.222,70
+71.221,71.222,2022-03-12,Panipuri,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sra.,Media noche,71.221,71.222,71
+72.221,72.222,2022-04-04,Cafe frio,Bebidas,Domicilio,40.00,4,160.00,Efectivo,Sra.,Tarde/noche,72.221,72.222,72
+73.221,73.222,2022-04-04,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Virtual,Sr.,Tarde,73.221,73.222,73
+74.221,74.222,2022-04-04,Cafe frio,Bebidas,Restaurante,40.00,15,600.00,Cheque,Sra.,Tarde,74.221,74.222,74
+75.221,75.222,2022-04-04,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Efectivo,Sr.,Tarde,75.221,75.222,75
+76.221,76.222,2022-04-05,Vadapav,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sr.,Media noche,76.221,76.222,76
+77.221,77.222,2022-04-05,Frankie,Comida rapida,Domicilio,50.00,7,350.00,Efectivo,Sra.,Tarde/noche,77.221,77.222,77
+78.221,78.222,2022-04-05,Jugo cania de azucar,Bebidas,Restaurante,25.00,13,325.00,Efectivo,Sr.,Maniana,78.221,78.222,78
+79.221,79.222,2022-04-05,Aalopuri,Comida rapida,Domicilio,20.00,11,220.00,Efectivo,Sra.,Noche,79.221,79.222,79
+80.221,80.222,2022-04-06,Panipuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sra.,Maniana,80.221,80.222,80
+81.221,81.222,2022-04-07,Sandwich,Comida rapida,Domicilio,60.00,10,600.00,Efectivo,Sra.,Tarde/noche,81.221,81.222,81
+82.221,82.222,2022-04-07,Vadapav,Comida rapida,Domicilio,20.00,6,120.00,Virtual,Sra.,Tarde,82.221,82.222,82
+83.221,83.222,2022-04-07,Vadapav,Comida rapida,Domicilio,20.00,14,280.00,Cheque,Sra.,Noche,83.221,83.222,83
+84.221,84.222,2022-04-07,Jugo cania de azucar,Bebidas,Restaurante,25.00,1,25.00,Efectivo,Sra.,Maniana,84.221,84.222,84
+85.221,85.222,2022-04-08,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sra.,Maniana,85.221,85.222,85
+86.221,86.222,2022-04-08,Panipuri,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sra.,Media noche,86.221,86.222,86
+87.221,87.222,2022-04-08,Jugo cania de azucar,Bebidas,Domicilio,25.00,9,225.00,Efectivo,Sr.,Tarde/noche,87.221,87.222,87
+88.221,88.222,2022-04-09,Sandwich,Comida rapida,Domicilio,60.00,8,480.00,Efectivo,Sra.,Media noche,88.221,88.222,88
+89.221,89.222,2022-04-09,Sandwich,Comida rapida,Restaurante,60.00,5,300.00,Efectivo,Sra.,Tarde/noche,89.221,89.222,89
+90.221,90.222,2022-04-10,Jugo cania de azucar,Bebidas,Restaurante,25.00,12,300.00,Virtual,Sr.,Tarde/noche,90.221,90.222,90
+91.221,91.222,2022-04-10,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Efectivo,Sr.,Noche,91.221,91.222,91
+92.221,92.222,2022-04-11,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sra.,Maniana,92.221,92.222,92
+93.221,93.222,2022-04-12,Aalopuri,Comida rapida,Restaurante,20.00,2,40.00,Efectivo,Sr.,Noche,93.221,93.222,93
+94.221,94.222,2022-04-12,Frankie,Comida rapida,Domicilio,50.00,4,200.00,Virtual,Sr.,Tarde/noche,94.221,94.222,94
+95.221,95.222,2022-04-12,Frankie,Comida rapida,Domicilio,50.00,15,750.00,Efectivo,Sr.,Media noche,95.221,95.222,95
+96.221,96.222,2022-04-12,Cafe frio,Bebidas,Restaurante,40.00,15,600.00,Efectivo,Sr.,Maniana,96.221,96.222,96
+97.221,97.222,2022-04-12,Jugo cania de azucar,Bebidas,Domicilio,25.00,7,175.00,Efectivo,Sr.,Maniana,97.221,97.222,97
+98.221,98.222,2022-04-14,Sandwich,Comida rapida,Restaurante,60.00,11,660.00,Cheque,Sra.,Media noche,98.221,98.222,98
+99.221,99.222,2022-04-15,Jugo cania de azucar,Bebidas,Restaurante,25.00,3,75.00,Virtual,Sr.,Tarde,99.221,99.222,99
+100.221,100.222,2022-04-16,Frankie,Comida rapida,Restaurante,50.00,6,300.00,Virtual,Sr.,Tarde,100.221,100.222,100
+101.221,101.222,2022-04-16,Jugo cania de azucar,Bebidas,Restaurante,25.00,3,75.00,Cheque,Sr.,Noche,101.221,101.222,101
+102.221,102.222,2022-04-16,Sandwich,Comida rapida,Domicilio,60.00,6,360.00,Efectivo,Sra.,Tarde/noche,102.221,102.222,102
+103.221,103.222,2022-04-17,Frankie,Comida rapida,Restaurante,50.00,5,250.00,Virtual,Sra.,Media noche,103.221,103.222,103
+104.221,104.222,2022-04-17,Sandwich,Comida rapida,Domicilio,60.00,12,720.00,Efectivo,Sr.,Noche,104.221,104.222,104
+105.221,105.222,2022-04-17,Jugo cania de azucar,Bebidas,Domicilio,25.00,11,275.00,Cheque,Sra.,Maniana,105.221,105.222,105
+106.221,106.222,2022-04-18,Aalopuri,Comida rapida,Restaurante,20.00,12,240.00,Efectivo,Sr.,Maniana,106.221,106.222,106
+107.221,107.222,2022-04-19,Sandwich,Comida rapida,Domicilio,60.00,4,240.00,Efectivo,Sra.,Media noche,107.221,107.222,107
+108.221,108.222,2022-04-19,Cafe frio,Bebidas,Domicilio,40.00,1,40.00,Efectivo,Sr.,Media noche,108.221,108.222,108
+109.221,109.222,2022-04-20,Cafe frio,Bebidas,Restaurante,40.00,4,160.00,Efectivo,Sr.,Noche,109.221,109.222,109
+110.221,110.222,2022-04-20,Cafe frio,Bebidas,Domicilio,40.00,12,480.00,Virtual,Sra.,Tarde,110.221,110.222,110
+111.221,111.222,2022-04-20,Aalopuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sr.,Tarde,111.221,111.222,111
+112.221,112.222,2022-04-21,Panipuri,Comida rapida,Restaurante,20.00,8,160.00,Virtual,Sra.,Maniana,112.221,112.222,112
+113.221,113.222,2022-04-21,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sra.,Noche,113.221,113.222,113
+114.221,114.222,2022-04-21,Jugo cania de azucar,Bebidas,Domicilio,25.00,9,225.00,Virtual,Sra.,Media noche,114.221,114.222,114
+115.221,115.222,2022-04-22,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Efectivo,Sr.,Media noche,115.221,115.222,115
+116.221,116.222,2022-04-23,Sandwich,Comida rapida,Domicilio,60.00,4,240.00,Efectivo,Sra.,Noche,116.221,116.222,116
+117.221,117.222,2022-04-23,Vadapav,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sra.,Noche,117.221,117.222,117
+118.221,118.222,2022-04-23,Jugo cania de azucar,Bebidas,Restaurante,25.00,13,325.00,Efectivo,Sr.,Tarde,118.221,118.222,118
+119.221,119.222,2022-04-23,Panipuri,Comida rapida,Restaurante,20.00,9,180.00,Virtual,Sr.,Maniana,119.221,119.222,119
+120.221,120.222,2022-04-24,Panipuri,Comida rapida,Restaurante,20.00,3,60.00,Cheque,Sra.,Noche,120.221,120.222,120
+121.221,121.222,2022-04-24,Vadapav,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sra.,Media noche,121.221,121.222,121
+122.221,122.222,2022-04-24,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sr.,Maniana,122.221,122.222,122
+123.221,123.222,2022-04-25,Vadapav,Comida rapida,Restaurante,20.00,4,80.00,Efectivo,Sr.,Tarde,123.221,123.222,123
+124.221,124.222,2022-04-25,Vadapav,Comida rapida,Domicilio,20.00,5,100.00,Efectivo,Sr.,Maniana,124.221,124.222,124
+125.221,125.222,2022-04-26,Cafe frio,Bebidas,Restaurante,40.00,1,40.00,Virtual,Sr.,Tarde/noche,125.221,125.222,125
+126.221,126.222,2022-04-26,Vadapav,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sr.,Maniana,126.221,126.222,126
+127.221,127.222,2022-04-26,Cafe frio,Bebidas,Domicilio,40.00,1,40.00,Virtual,Sra.,Noche,127.221,127.222,127
+128.221,128.222,2022-04-26,Cafe frio,Bebidas,Domicilio,40.00,12,480.00,Cheque,Sr.,Maniana,128.221,128.222,128
+129.221,129.222,2022-04-27,Panipuri,Comida rapida,Domicilio,20.00,9,180.00,Efectivo,Sra.,Maniana,129.221,129.222,129
+130.221,130.222,2022-04-27,Panipuri,Comida rapida,Restaurante,20.00,2,40.00,Efectivo,Sr.,Tarde/noche,130.221,130.222,130
+131.221,131.222,2022-04-28,Aalopuri,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sra.,Tarde/noche,131.221,131.222,131
+132.221,132.222,2022-04-29,Aalopuri,Comida rapida,Domicilio,20.00,8,160.00,Efectivo,Sr.,Maniana,132.221,132.222,132
+133.221,133.222,2022-04-30,Vadapav,Comida rapida,Domicilio,20.00,7,140.00,Cheque,Sra.,Tarde,133.221,133.222,133
+134.221,134.222,2022-04-30,Sandwich,Comida rapida,Restaurante,60.00,10,600.00,Virtual,Sr.,Tarde/noche,134.221,134.222,134
+135.221,135.222,2022-04-30,Frankie,Comida rapida,Domicilio,50.00,13,650.00,Virtual,Sr.,Maniana,135.221,135.222,135
+136.221,136.222,2022-04-30,Jugo cania de azucar,Bebidas,Domicilio,25.00,13,325.00,Virtual,Sr.,Noche,136.221,136.222,136
+137.221,137.222,2022-05-04,Frankie,Comida rapida,Domicilio,50.00,2,100.00,Efectivo,Sra.,Maniana,137.221,137.222,137
+138.221,138.222,2022-05-05,Cafe frio,Bebidas,Restaurante,40.00,12,480.00,Virtual,Sra.,Maniana,138.221,138.222,138
+139.221,139.222,2022-05-05,Cafe frio,Bebidas,Restaurante,40.00,11,440.00,Efectivo,Sr.,Maniana,139.221,139.222,139
+140.221,140.222,2022-05-05,Jugo cania de azucar,Bebidas,Domicilio,25.00,5,125.00,Efectivo,Sr.,Media noche,140.221,140.222,140
+141.221,141.222,2022-05-05,Jugo cania de azucar,Bebidas,Domicilio,25.00,8,200.00,Virtual,Sr.,Noche,141.221,141.222,141
+142.221,142.222,2022-05-06,Panipuri,Comida rapida,Restaurante,20.00,7,140.00,Virtual,Sr.,Maniana,142.221,142.222,142
+143.221,143.222,2022-05-06,Vadapav,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sr.,Tarde,143.221,143.222,143
+144.221,144.222,2022-05-07,Panipuri,Comida rapida,Domicilio,20.00,15,300.00,Efectivo,Sr.,Noche,144.221,144.222,144
+145.221,145.222,2022-05-08,Sandwich,Comida rapida,Domicilio,60.00,9,540.00,Cheque,Sr.,Maniana,145.221,145.222,145
+146.221,146.222,2022-05-08,Jugo cania de azucar,Bebidas,Restaurante,25.00,5,125.00,Virtual,Sra.,Media noche,146.221,146.222,146
+147.221,147.222,2022-05-08,Vadapav,Comida rapida,Domicilio,20.00,15,300.00,Efectivo,Sr.,Tarde/noche,147.221,147.222,147
+148.221,148.222,2022-05-09,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Efectivo,Sra.,Noche,148.221,148.222,148
+149.221,149.222,2022-05-09,Sandwich,Comida rapida,Restaurante,60.00,4,240.00,Virtual,Sr.,Media noche,149.221,149.222,149
+150.221,150.222,2022-05-09,Vadapav,Comida rapida,Restaurante,20.00,8,160.00,Efectivo,Sr.,Tarde/noche,150.221,150.222,150
+151.221,151.222,2022-05-10,Vadapav,Comida rapida,Domicilio,20.00,4,80.00,Virtual,Sr.,Media noche,151.221,151.222,151
+152.221,152.222,2022-05-10,Vadapav,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sra.,Noche,152.221,152.222,152
+153.221,153.222,2022-05-10,Vadapav,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sra.,Media noche,153.221,153.222,153
+154.221,154.222,2022-05-10,Vadapav,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sra.,Maniana,154.221,154.222,154
+155.221,155.222,2022-05-11,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sra.,Noche,155.221,155.222,155
+156.221,156.222,2022-05-11,Panipuri,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sr.,Noche,156.221,156.222,156
+157.221,157.222,2022-05-11,Panipuri,Comida rapida,Restaurante,20.00,8,160.00,Virtual,Sr.,Noche,157.221,157.222,157
+158.221,158.222,2022-05-11,Sandwich,Comida rapida,Restaurante,60.00,4,240.00,Virtual,Sr.,Noche,158.221,158.222,158
+159.221,159.222,2022-05-11,Frankie,Comida rapida,Restaurante,50.00,9,450.00,Efectivo,Sr.,Media noche,159.221,159.222,159
+160.221,160.222,2022-05-12,Cafe frio,Bebidas,Restaurante,40.00,6,240.00,Virtual,Sr.,Noche,160.221,160.222,160
+161.221,161.222,2022-05-12,Vadapav,Comida rapida,Domicilio,20.00,4,80.00,Virtual,Sra.,Noche,161.221,161.222,161
+162.221,162.222,2022-05-12,Vadapav,Comida rapida,Domicilio,20.00,8,160.00,Virtual,Sr.,Tarde/noche,162.221,162.222,162
+163.221,163.222,2022-05-13,Aalopuri,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sr.,Tarde,163.221,163.222,163
+164.221,164.222,2022-05-13,Jugo cania de azucar,Bebidas,Restaurante,25.00,1,25.00,Efectivo,Sr.,Tarde,164.221,164.222,164
+165.221,165.222,2022-05-13,Cafe frio,Bebidas,Restaurante,40.00,14,560.00,Efectivo,Sr.,Noche,165.221,165.222,165
+166.221,166.222,2022-05-14,Vadapav,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sr.,Tarde/noche,166.221,166.222,166
+167.221,167.222,2022-05-14,Cafe frio,Bebidas,Domicilio,40.00,10,400.00,Virtual,Sr.,Maniana,167.221,167.222,167
+168.221,168.222,2022-05-14,Aalopuri,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sr.,Media noche,168.221,168.222,168
+169.221,169.222,2022-05-14,Frankie,Comida rapida,Restaurante,50.00,5,250.00,Virtual,Sr.,Tarde,169.221,169.222,169
+170.221,170.222,2022-05-15,Aalopuri,Comida rapida,Domicilio,20.00,9,180.00,Efectivo,Sr.,Media noche,170.221,170.222,170
+171.221,171.222,2022-05-15,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Virtual,Sra.,Maniana,171.221,171.222,171
+172.221,172.222,2022-05-15,Aalopuri,Comida rapida,Domicilio,20.00,12,240.00,Cheque,Sra.,Tarde,172.221,172.222,172
+173.221,173.222,2022-05-15,Vadapav,Comida rapida,Domicilio,20.00,15,300.00,Virtual,Sr.,Tarde/noche,173.221,173.222,173
+174.221,174.222,2022-05-15,Cafe frio,Bebidas,Domicilio,40.00,2,80.00,Virtual,Sra.,Tarde,174.221,174.222,174
+175.221,175.222,2022-05-16,Frankie,Comida rapida,Domicilio,50.00,15,750.00,Virtual,Sra.,Maniana,175.221,175.222,175
+176.221,176.222,2022-05-16,Aalopuri,Comida rapida,Restaurante,20.00,2,40.00,Cheque,Sr.,Media noche,176.221,176.222,176
+177.221,177.222,2022-05-16,Vadapav,Comida rapida,Domicilio,20.00,13,260.00,Cheque,Sra.,Maniana,177.221,177.222,177
+178.221,178.222,2022-05-16,Vadapav,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sra.,Noche,178.221,178.222,178
+179.221,179.222,2022-05-17,Panipuri,Comida rapida,Restaurante,20.00,7,140.00,Virtual,Sr.,Tarde/noche,179.221,179.222,179
+180.221,180.222,2022-05-18,Vadapav,Comida rapida,Restaurante,20.00,4,80.00,Virtual,Sra.,Media noche,180.221,180.222,180
+181.221,181.222,2022-05-18,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Virtual,Sra.,Tarde,181.221,181.222,181
+182.221,182.222,2022-05-19,Cafe frio,Bebidas,Domicilio,40.00,3,120.00,Virtual,Sra.,Maniana,182.221,182.222,182
+183.221,183.222,2022-05-19,Aalopuri,Comida rapida,Domicilio,20.00,7,140.00,Efectivo,Sr.,Media noche,183.221,183.222,183
+184.221,184.222,2022-05-20,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Efectivo,Sra.,Maniana,184.221,184.222,184
+185.221,185.222,2022-05-20,Jugo cania de azucar,Bebidas,Domicilio,25.00,3,75.00,Virtual,Sra.,Tarde/noche,185.221,185.222,185
+186.221,186.222,2022-05-20,Jugo cania de azucar,Bebidas,Restaurante,25.00,1,25.00,Virtual,Sr.,Maniana,186.221,186.222,186
+187.221,187.222,2022-05-20,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sra.,Tarde,187.221,187.222,187
+188.221,188.222,2022-05-21,Sandwich,Comida rapida,Restaurante,60.00,2,120.00,Virtual,Sr.,Tarde,188.221,188.222,188
+189.221,189.222,2022-05-21,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Virtual,Sra.,Tarde,189.221,189.222,189
+190.221,190.222,2022-05-21,Aalopuri,Comida rapida,Domicilio,20.00,12,240.00,Efectivo,Sra.,Tarde/noche,190.221,190.222,190
+191.221,191.222,2022-05-21,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sra.,Media noche,191.221,191.222,191
+192.221,192.222,2022-05-22,Vadapav,Comida rapida,Domicilio,20.00,8,160.00,Efectivo,Sr.,Maniana,192.221,192.222,192
+193.221,193.222,2022-05-22,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Virtual,Sr.,Noche,193.221,193.222,193
+194.221,194.222,2022-05-22,Frankie,Comida rapida,Restaurante,50.00,12,600.00,Cheque,Sr.,Noche,194.221,194.222,194
+195.221,195.222,2022-05-22,Sandwich,Comida rapida,Restaurante,60.00,11,660.00,Virtual,Sra.,Noche,195.221,195.222,195
+196.221,196.222,2022-05-23,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sr.,Tarde/noche,196.221,196.222,196
+197.221,197.222,2022-05-23,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sr.,Tarde/noche,197.221,197.222,197
+198.221,198.222,2022-05-24,Frankie,Comida rapida,Domicilio,50.00,13,650.00,Efectivo,Sr.,Tarde/noche,198.221,198.222,198
+199.221,199.222,2022-05-24,Cafe frio,Bebidas,Restaurante,40.00,3,120.00,Virtual,Sr.,Tarde/noche,199.221,199.222,199
+200.221,200.222,2022-05-25,Frankie,Comida rapida,Domicilio,50.00,11,550.00,Efectivo,Sra.,Noche,200.221,200.222,200
+201.221,201.222,2022-05-25,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Efectivo,Sr.,Tarde/noche,201.221,201.222,201
+202.221,202.222,2022-05-25,Panipuri,Comida rapida,Restaurante,20.00,2,40.00,Efectivo,Sra.,Tarde/noche,202.221,202.222,202
+203.221,203.222,2022-05-25,Sandwich,Comida rapida,Domicilio,60.00,2,120.00,Efectivo,Sr.,Media noche,203.221,203.222,203
+204.221,204.222,2022-05-26,Sandwich,Comida rapida,Domicilio,60.00,3,180.00,Virtual,Sr.,Media noche,204.221,204.222,204
+205.221,205.222,2022-05-26,Vadapav,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sr.,Noche,205.221,205.222,205
+206.221,206.222,2022-05-26,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Efectivo,Sra.,Noche,206.221,206.222,206
+207.221,207.222,2022-05-27,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sra.,Tarde/noche,207.221,207.222,207
+208.221,208.222,2022-05-27,Sandwich,Comida rapida,Restaurante,60.00,9,540.00,Efectivo,Sra.,Media noche,208.221,208.222,208
+209.221,209.222,2022-05-27,Vadapav,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sr.,Tarde,209.221,209.222,209
+210.221,210.222,2022-05-27,Frankie,Comida rapida,Domicilio,50.00,7,350.00,Cheque,Sra.,Maniana,210.221,210.222,210
+211.221,211.222,2022-05-27,Sandwich,Comida rapida,Restaurante,60.00,7,420.00,Efectivo,Sr.,Noche,211.221,211.222,211
+212.221,212.222,2022-05-27,Aalopuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Media noche,212.221,212.222,212
+213.221,213.222,2022-05-28,Vadapav,Comida rapida,Restaurante,20.00,15,300.00,Virtual,Sr.,Maniana,213.221,213.222,213
+214.221,214.222,2022-05-28,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Cheque,Sra.,Media noche,214.221,214.222,214
+215.221,215.222,2022-05-29,Aalopuri,Comida rapida,Domicilio,20.00,8,160.00,Efectivo,Sr.,Noche,215.221,215.222,215
+216.221,216.222,2022-05-29,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sra.,Media noche,216.221,216.222,216
+217.221,217.222,2022-05-30,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Virtual,Sra.,Media noche,217.221,217.222,217
+218.221,218.222,2022-05-30,Cafe frio,Bebidas,Domicilio,40.00,3,120.00,Virtual,Sr.,Maniana,218.221,218.222,218
+219.221,219.222,2022-05-31,Vadapav,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sra.,Media noche,219.221,219.222,219
+220.221,220.222,2022-05-31,Frankie,Comida rapida,Restaurante,50.00,8,400.00,Efectivo,Sr.,Noche,220.221,220.222,220
+221.221,221.222,2022-06-05,Aalopuri,Comida rapida,Restaurante,20.00,4,80.00,Cheque,Sr.,Maniana,221.221,221.222,221
+222.221,222.222,2022-06-05,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Efectivo,Sr.,Maniana,222.221,222.222,222
+223.221,223.222,2022-06-05,Aalopuri,Comida rapida,Restaurante,20.00,7,140.00,Virtual,Sra.,Maniana,223.221,223.222,223
+224.221,224.222,2022-06-05,Aalopuri,Comida rapida,Restaurante,20.00,14,280.00,Virtual,Sra.,Tarde/noche,224.221,224.222,224
+225.221,225.222,2022-06-06,Jugo cania de azucar,Bebidas,Domicilio,25.00,2,50.00,Efectivo,Sr.,Tarde,225.221,225.222,225
+226.221,226.222,2022-06-06,Aalopuri,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sr.,Noche,226.221,226.222,226
+227.221,227.222,2022-06-06,Jugo cania de azucar,Bebidas,Restaurante,25.00,4,100.00,Efectivo,Sr.,Maniana,227.221,227.222,227
+228.221,228.222,2022-06-06,Frankie,Comida rapida,Restaurante,50.00,9,450.00,Virtual,Sra.,Noche,228.221,228.222,228
+229.221,229.222,2022-06-07,Sandwich,Comida rapida,Restaurante,60.00,1,60.00,Virtual,Sr.,Media noche,229.221,229.222,229
+230.221,230.222,2022-06-07,Aalopuri,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sra.,Tarde,230.221,230.222,230
+231.221,231.222,2022-06-08,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sr.,Tarde,231.221,231.222,231
+232.221,232.222,2022-06-08,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sr.,Maniana,232.221,232.222,232
+233.221,233.222,2022-06-09,Vadapav,Comida rapida,Domicilio,20.00,14,280.00,Efectivo,Sr.,Media noche,233.221,233.222,233
+234.221,234.222,2022-06-09,Cafe frio,Bebidas,Domicilio,40.00,7,280.00,Efectivo,Sr.,Tarde/noche,234.221,234.222,234
+235.221,235.222,2022-06-10,Cafe frio,Bebidas,Domicilio,40.00,2,80.00,Virtual,Sra.,Media noche,235.221,235.222,235
+236.221,236.222,2022-06-11,Frankie,Comida rapida,Domicilio,50.00,4,200.00,Virtual,Sra.,Maniana,236.221,236.222,236
+237.221,237.222,2022-06-11,Cafe frio,Bebidas,Restaurante,40.00,14,560.00,Efectivo,Sr.,Noche,237.221,237.222,237
+238.221,238.222,2022-06-11,Cafe frio,Bebidas,Restaurante,40.00,9,360.00,Efectivo,Sra.,Tarde/noche,238.221,238.222,238
+239.221,239.222,2022-06-11,Cafe frio,Bebidas,Domicilio,40.00,11,440.00,Efectivo,Sr.,Maniana,239.221,239.222,239
+240.221,240.222,2022-06-13,Panipuri,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sra.,Media noche,240.221,240.222,240
+241.221,241.222,2022-06-13,Panipuri,Comida rapida,Restaurante,20.00,7,140.00,Cheque,Sra.,Media noche,241.221,241.222,241
+242.221,242.222,2022-06-13,Frankie,Comida rapida,Domicilio,50.00,1,50.00,Virtual,Sra.,Media noche,242.221,242.222,242
+243.221,243.222,2022-06-13,Frankie,Comida rapida,Domicilio,50.00,5,250.00,Virtual,Sra.,Tarde/noche,243.221,243.222,243
+244.221,244.222,2022-06-14,Frankie,Comida rapida,Restaurante,50.00,1,50.00,Efectivo,Sra.,Tarde,244.221,244.222,244
+245.221,245.222,2022-06-15,Aalopuri,Comida rapida,Restaurante,20.00,4,80.00,Cheque,Sr.,Tarde/noche,245.221,245.222,245
+246.221,246.222,2022-06-15,Sandwich,Comida rapida,Domicilio,60.00,13,780.00,Efectivo,Sr.,Noche,246.221,246.222,246
+247.221,247.222,2022-06-16,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sr.,Tarde/noche,247.221,247.222,247
+248.221,248.222,2022-06-16,Frankie,Comida rapida,Restaurante,50.00,1,50.00,Efectivo,Sr.,Media noche,248.221,248.222,248
+249.221,249.222,2022-06-16,Frankie,Comida rapida,Domicilio,50.00,11,550.00,Efectivo,Sra.,Maniana,249.221,249.222,249
+250.221,250.222,2022-06-17,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Virtual,Sr.,Maniana,250.221,250.222,250
+251.221,251.222,2022-06-17,Panipuri,Comida rapida,Domicilio,20.00,12,240.00,Virtual,Sr.,Maniana,251.221,251.222,251
+252.221,252.222,2022-06-18,Jugo cania de azucar,Bebidas,Domicilio,25.00,13,325.00,Virtual,Sr.,Tarde,252.221,252.222,252
+253.221,253.222,2022-06-18,Jugo cania de azucar,Bebidas,Domicilio,25.00,5,125.00,Cheque,Sr.,Media noche,253.221,253.222,253
+254.221,254.222,2022-06-18,Jugo cania de azucar,Bebidas,Restaurante,25.00,1,25.00,Virtual,Sr.,Noche,254.221,254.222,254
+255.221,255.222,2022-06-19,Panipuri,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sr.,Tarde/noche,255.221,255.222,255
+256.221,256.222,2022-06-19,Frankie,Comida rapida,Domicilio,50.00,6,300.00,Virtual,Sra.,Noche,256.221,256.222,256
+257.221,257.222,2022-06-19,Sandwich,Comida rapida,Restaurante,60.00,10,600.00,Virtual,Sra.,Maniana,257.221,257.222,257
+258.221,258.222,2022-06-20,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sr.,Maniana,258.221,258.222,258
+259.221,259.222,2022-06-20,Cafe frio,Bebidas,Restaurante,40.00,5,200.00,Virtual,Sr.,Maniana,259.221,259.222,259
+260.221,260.222,2022-06-20,Vadapav,Comida rapida,Restaurante,20.00,9,180.00,Virtual,Sr.,Maniana,260.221,260.222,260
+261.221,261.222,2022-06-22,Jugo cania de azucar,Bebidas,Restaurante,25.00,15,375.00,Virtual,Sr.,Tarde,261.221,261.222,261
+262.221,262.222,2022-06-22,Panipuri,Comida rapida,Domicilio,20.00,4,80.00,Efectivo,Sr.,Noche,262.221,262.222,262
+263.221,263.222,2022-06-24,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Efectivo,Sra.,Tarde,263.221,263.222,263
+264.221,264.222,2022-06-24,Panipuri,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sra.,Tarde/noche,264.221,264.222,264
+265.221,265.222,2022-06-25,Sandwich,Comida rapida,Domicilio,60.00,3,180.00,Efectivo,Sr.,Tarde/noche,265.221,265.222,265
+266.221,266.222,2022-06-25,Aalopuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sra.,Maniana,266.221,266.222,266
+267.221,267.222,2022-06-25,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Efectivo,Sra.,Maniana,267.221,267.222,267
+268.221,268.222,2022-06-25,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Virtual,Sr.,Noche,268.221,268.222,268
+269.221,269.222,2022-06-25,Jugo cania de azucar,Bebidas,Restaurante,25.00,5,125.00,Efectivo,Sra.,Maniana,269.221,269.222,269
+270.221,270.222,2022-06-26,Vadapav,Comida rapida,Domicilio,20.00,12,240.00,Cheque,Sra.,Tarde/noche,270.221,270.222,270
+271.221,271.222,2022-06-26,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Efectivo,Sr.,Media noche,271.221,271.222,271
+272.221,272.222,2022-06-26,Panipuri,Comida rapida,Restaurante,20.00,9,180.00,Virtual,Sr.,Media noche,272.221,272.222,272
+273.221,273.222,2022-06-26,Aalopuri,Comida rapida,Domicilio,20.00,15,300.00,Efectivo,Sr.,Tarde,273.221,273.222,273
+274.221,274.222,2022-06-27,Aalopuri,Comida rapida,Restaurante,20.00,8,160.00,Efectivo,Sr.,Tarde,274.221,274.222,274
+275.221,275.222,2022-06-27,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Efectivo,Sra.,Noche,275.221,275.222,275
+276.221,276.222,2022-06-28,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Cheque,Sr.,Noche,276.221,276.222,276
+277.221,277.222,2022-06-28,Jugo cania de azucar,Bebidas,Restaurante,25.00,2,50.00,Efectivo,Sr.,Noche,277.221,277.222,277
+278.221,278.222,2022-06-28,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Efectivo,Sra.,Tarde,278.221,278.222,278
+279.221,279.222,2022-06-29,Cafe frio,Bebidas,Restaurante,40.00,14,560.00,Efectivo,Sr.,Tarde,279.221,279.222,279
+280.221,280.222,2022-06-30,Panipuri,Comida rapida,Restaurante,20.00,8,160.00,Efectivo,Sr.,Maniana,280.221,280.222,280
+281.221,281.222,2022-06-30,Frankie,Comida rapida,Domicilio,50.00,15,750.00,Efectivo,Sr.,Tarde,281.221,281.222,281
+282.221,282.222,2022-06-30,Sandwich,Comida rapida,Domicilio,60.00,15,900.00,Cheque,Sra.,Noche,282.221,282.222,282
+283.221,283.222,2022-06-30,Sandwich,Comida rapida,Restaurante,60.00,2,120.00,Efectivo,Sra.,Tarde/noche,283.221,283.222,283
+284.221,284.222,2022-06-30,Frankie,Comida rapida,Restaurante,50.00,5,250.00,Virtual,Sra.,Noche,284.221,284.222,284
+285.221,285.222,2022-06-30,Jugo cania de azucar,Bebidas,Restaurante,25.00,12,300.00,Virtual,Sr.,Maniana,285.221,285.222,285
+286.221,286.222,2022-06-30,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sra.,Noche,286.221,286.222,286
+287.221,287.222,2022-07-04,Sandwich,Comida rapida,Restaurante,60.00,13,780.00,Virtual,Sra.,Maniana,287.221,287.222,287
+288.221,288.222,2022-07-04,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Cheque,Sr.,Media noche,288.221,288.222,288
+289.221,289.222,2022-07-04,Sandwich,Comida rapida,Restaurante,60.00,11,660.00,Virtual,Sr.,Tarde/noche,289.221,289.222,289
+290.221,290.222,2022-07-05,Vadapav,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sr.,Tarde/noche,290.221,290.222,290
+291.221,291.222,2022-07-05,Sandwich,Comida rapida,Domicilio,60.00,10,600.00,Efectivo,Sr.,Noche,291.221,291.222,291
+292.221,292.222,2022-07-05,Aalopuri,Comida rapida,Restaurante,20.00,11,220.00,Efectivo,Sr.,Media noche,292.221,292.222,292
+293.221,293.222,2022-07-05,Cafe frio,Bebidas,Domicilio,40.00,8,320.00,Efectivo,Sr.,Tarde/noche,293.221,293.222,293
+294.221,294.222,2022-07-06,Frankie,Comida rapida,Restaurante,50.00,8,400.00,Efectivo,Sr.,Maniana,294.221,294.222,294
+295.221,295.222,2022-07-06,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Cheque,Sra.,Maniana,295.221,295.222,295
+296.221,296.222,2022-07-07,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Efectivo,Sr.,Tarde/noche,296.221,296.222,296
+297.221,297.222,2022-07-08,Vadapav,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sr.,Media noche,297.221,297.222,297
+298.221,298.222,2022-07-09,Sandwich,Comida rapida,Restaurante,60.00,13,780.00,Efectivo,Sr.,Tarde/noche,298.221,298.222,298
+299.221,299.222,2022-07-09,Panipuri,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sr.,Tarde/noche,299.221,299.222,299
+300.221,300.222,2022-07-09,Frankie,Comida rapida,Restaurante,50.00,2,100.00,Efectivo,Sr.,Tarde,300.221,300.222,300
+301.221,301.222,2022-07-10,Sandwich,Comida rapida,Domicilio,60.00,6,360.00,Virtual,Sr.,Tarde/noche,301.221,301.222,301
+302.221,302.222,2022-07-10,Frankie,Comida rapida,Domicilio,50.00,7,350.00,Efectivo,Sr.,Tarde/noche,302.221,302.222,302
+303.221,303.222,2022-07-10,Cafe frio,Bebidas,Restaurante,40.00,7,280.00,Virtual,Sr.,Tarde,303.221,303.222,303
+304.221,304.222,2022-07-11,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Virtual,Sra.,Noche,304.221,304.222,304
+305.221,305.222,2022-07-12,Aalopuri,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sr.,Tarde,305.221,305.222,305
+306.221,306.222,2022-07-12,Vadapav,Comida rapida,Restaurante,20.00,14,280.00,Cheque,Sra.,Tarde/noche,306.221,306.222,306
+307.221,307.222,2022-07-12,Jugo cania de azucar,Bebidas,Domicilio,25.00,9,225.00,Virtual,Sr.,Tarde,307.221,307.222,307
+308.221,308.222,2022-07-13,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Efectivo,Sra.,Tarde,308.221,308.222,308
+309.221,309.222,2022-07-14,Sandwich,Comida rapida,Restaurante,60.00,12,720.00,Efectivo,Sr.,Tarde,309.221,309.222,309
+310.221,310.222,2022-07-14,Jugo cania de azucar,Bebidas,Restaurante,25.00,7,175.00,Virtual,Sra.,Tarde/noche,310.221,310.222,310
+311.221,311.222,2022-07-15,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sra.,Media noche,311.221,311.222,311
+312.221,312.222,2022-07-16,Cafe frio,Bebidas,Restaurante,40.00,5,200.00,Efectivo,Sra.,Noche,312.221,312.222,312
+313.221,313.222,2022-07-16,Aalopuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sr.,Tarde,313.221,313.222,313
+314.221,314.222,2022-07-16,Cafe frio,Bebidas,Restaurante,40.00,5,200.00,Efectivo,Sr.,Noche,314.221,314.222,314
+315.221,315.222,2022-07-17,Frankie,Comida rapida,Domicilio,50.00,3,150.00,Virtual,Sra.,Tarde/noche,315.221,315.222,315
+316.221,316.222,2022-07-17,Aalopuri,Comida rapida,Domicilio,20.00,12,240.00,Virtual,Sra.,Noche,316.221,316.222,316
+317.221,317.222,2022-07-17,Jugo cania de azucar,Bebidas,Domicilio,25.00,13,325.00,Cheque,Sr.,Maniana,317.221,317.222,317
+318.221,318.222,2022-07-17,Frankie,Comida rapida,Restaurante,50.00,3,150.00,Virtual,Sra.,Noche,318.221,318.222,318
+319.221,319.222,2022-07-18,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Virtual,Sr.,Maniana,319.221,319.222,319
+320.221,320.222,2022-07-18,Jugo cania de azucar,Bebidas,Domicilio,25.00,15,375.00,Virtual,Sra.,Noche,320.221,320.222,320
+321.221,321.222,2022-07-19,Jugo cania de azucar,Bebidas,Domicilio,25.00,9,225.00,Efectivo,Sra.,Tarde,321.221,321.222,321
+322.221,322.222,2022-07-19,Frankie,Comida rapida,Domicilio,50.00,3,150.00,Efectivo,Sr.,Tarde/noche,322.221,322.222,322
+323.221,323.222,2022-07-19,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Virtual,Sra.,Tarde/noche,323.221,323.222,323
+324.221,324.222,2022-07-20,Panipuri,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sra.,Tarde/noche,324.221,324.222,324
+325.221,325.222,2022-07-20,Frankie,Comida rapida,Domicilio,50.00,6,300.00,Efectivo,Sr.,Noche,325.221,325.222,325
+326.221,326.222,2022-07-21,Panipuri,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sra.,Tarde/noche,326.221,326.222,326
+327.221,327.222,2022-07-21,Panipuri,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sra.,Maniana,327.221,327.222,327
+328.221,328.222,2022-07-21,Sandwich,Comida rapida,Restaurante,60.00,7,420.00,Efectivo,Sr.,Media noche,328.221,328.222,328
+329.221,329.222,2022-07-21,Jugo cania de azucar,Bebidas,Domicilio,25.00,4,100.00,Efectivo,Sra.,Noche,329.221,329.222,329
+330.221,330.222,2022-07-22,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sra.,Tarde/noche,330.221,330.222,330
+331.221,331.222,2022-07-22,Jugo cania de azucar,Bebidas,Domicilio,25.00,5,125.00,Efectivo,Sr.,Media noche,331.221,331.222,331
+332.221,332.222,2022-07-23,Vadapav,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Noche,332.221,332.222,332
+333.221,333.222,2022-07-24,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Virtual,Sr.,Media noche,333.221,333.222,333
+334.221,334.222,2022-07-24,Aalopuri,Comida rapida,Restaurante,20.00,12,240.00,Efectivo,Sra.,Media noche,334.221,334.222,334
+335.221,335.222,2022-07-25,Aalopuri,Comida rapida,Restaurante,20.00,4,80.00,Efectivo,Sr.,Maniana,335.221,335.222,335
+336.221,336.222,2022-07-25,Sandwich,Comida rapida,Domicilio,60.00,9,540.00,Efectivo,Sra.,Noche,336.221,336.222,336
+337.221,337.222,2022-07-26,Aalopuri,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sr.,Tarde,337.221,337.222,337
+338.221,338.222,2022-07-26,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sr.,Tarde,338.221,338.222,338
+339.221,339.222,2022-07-26,Sandwich,Comida rapida,Domicilio,60.00,9,540.00,Efectivo,Sra.,Noche,339.221,339.222,339
+340.221,340.222,2022-07-27,Aalopuri,Comida rapida,Restaurante,20.00,4,80.00,Efectivo,Sr.,Noche,340.221,340.222,340
+341.221,341.222,2022-07-27,Panipuri,Comida rapida,Restaurante,20.00,10,200.00,Efectivo,Sr.,Media noche,341.221,341.222,341
+342.221,342.222,2022-07-27,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sra.,Tarde/noche,342.221,342.222,342
+343.221,343.222,2022-07-27,Sandwich,Comida rapida,Domicilio,60.00,8,480.00,Virtual,Sra.,Tarde/noche,343.221,343.222,343
+344.221,344.222,2022-07-27,Panipuri,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sra.,Noche,344.221,344.222,344
+345.221,345.222,2022-07-29,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Efectivo,Sr.,Media noche,345.221,345.222,345
+346.221,346.222,2022-07-29,Frankie,Comida rapida,Restaurante,50.00,5,250.00,Virtual,Sra.,Noche,346.221,346.222,346
+347.221,347.222,2022-07-30,Panipuri,Comida rapida,Restaurante,20.00,12,240.00,Efectivo,Sr.,Noche,347.221,347.222,347
+348.221,348.222,2022-07-30,Jugo cania de azucar,Bebidas,Restaurante,25.00,7,175.00,Efectivo,Sr.,Tarde/noche,348.221,348.222,348
+349.221,349.222,2022-07-30,Aalopuri,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sr.,Media noche,349.221,349.222,349
+350.221,350.222,2022-07-31,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Efectivo,Sr.,Maniana,350.221,350.222,350
+351.221,351.222,2022-07-31,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Cheque,Sra.,Maniana,351.221,351.222,351
+352.221,352.222,2022-07-31,Cafe frio,Bebidas,Domicilio,40.00,9,360.00,Virtual,Sra.,Maniana,352.221,352.222,352
+353.221,353.222,2022-08-04,Panipuri,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sra.,Noche,353.221,353.222,353
+354.221,354.222,2022-08-04,Vadapav,Comida rapida,Restaurante,20.00,4,80.00,Virtual,Sra.,Media noche,354.221,354.222,354
+355.221,355.222,2022-08-04,Frankie,Comida rapida,Domicilio,50.00,1,50.00,Virtual,Sr.,Tarde/noche,355.221,355.222,355
+356.221,356.222,2022-08-05,Panipuri,Comida rapida,Restaurante,20.00,11,220.00,Cheque,Sr.,Maniana,356.221,356.222,356
+357.221,357.222,2022-08-05,Jugo cania de azucar,Bebidas,Restaurante,25.00,12,300.00,Efectivo,Sra.,Media noche,357.221,357.222,357
+358.221,358.222,2022-08-05,Sandwich,Comida rapida,Restaurante,60.00,1,60.00,Efectivo,Sra.,Tarde,358.221,358.222,358
+359.221,359.222,2022-08-05,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Virtual,Sra.,Tarde/noche,359.221,359.222,359
+360.221,360.222,2022-08-05,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Virtual,Sr.,Tarde,360.221,360.222,360
+361.221,361.222,2022-08-05,Jugo cania de azucar,Bebidas,Domicilio,25.00,4,100.00,Efectivo,Sra.,Tarde,361.221,361.222,361
+362.221,362.222,2022-08-06,Vadapav,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sr.,Noche,362.221,362.222,362
+363.221,363.222,2022-08-07,Frankie,Comida rapida,Domicilio,50.00,5,250.00,Virtual,Sra.,Noche,363.221,363.222,363
+364.221,364.222,2022-08-07,Panipuri,Comida rapida,Restaurante,20.00,10,200.00,Virtual,Sr.,Noche,364.221,364.222,364
+365.221,365.222,2022-08-08,Cafe frio,Bebidas,Restaurante,40.00,12,480.00,Cheque,Sr.,Tarde,365.221,365.222,365
+366.221,366.222,2022-08-08,Panipuri,Comida rapida,Domicilio,20.00,5,100.00,Efectivo,Sr.,Tarde,366.221,366.222,366
+367.221,367.222,2022-08-09,Panipuri,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sr.,Tarde/noche,367.221,367.222,367
+368.221,368.222,2022-08-09,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Efectivo,Sra.,Noche,368.221,368.222,368
+369.221,369.222,2022-08-09,Frankie,Comida rapida,Restaurante,50.00,9,450.00,Virtual,Sr.,Noche,369.221,369.222,369
+370.221,370.222,2022-08-10,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Cheque,Sra.,Media noche,370.221,370.222,370
+371.221,371.222,2022-08-10,Sandwich,Comida rapida,Restaurante,60.00,11,660.00,Efectivo,Sra.,Media noche,371.221,371.222,371
+372.221,372.222,2022-08-10,Frankie,Comida rapida,Domicilio,50.00,5,250.00,Virtual,Sra.,Noche,372.221,372.222,372
+373.221,373.222,2022-08-10,Frankie,Comida rapida,Domicilio,50.00,2,100.00,Virtual,Sr.,Noche,373.221,373.222,373
+374.221,374.222,2022-08-11,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sra.,Media noche,374.221,374.222,374
+375.221,375.222,2022-08-11,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sra.,Media noche,375.221,375.222,375
+376.221,376.222,2022-08-11,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Virtual,Sra.,Tarde/noche,376.221,376.222,376
+377.221,377.222,2022-08-12,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Efectivo,Sra.,Media noche,377.221,377.222,377
+378.221,378.222,2022-08-13,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sra.,Tarde,378.221,378.222,378
+379.221,379.222,2022-08-13,Panipuri,Comida rapida,Restaurante,20.00,12,240.00,Cheque,Sr.,Tarde,379.221,379.222,379
+380.221,380.222,2022-08-13,Jugo cania de azucar,Bebidas,Domicilio,25.00,7,175.00,Virtual,Sr.,Tarde,380.221,380.222,380
+381.221,381.222,2022-08-13,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Virtual,Sr.,Media noche,381.221,381.222,381
+382.221,382.222,2022-08-14,Aalopuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Tarde,382.221,382.222,382
+383.221,383.222,2022-08-14,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Cheque,Sr.,Maniana,383.221,383.222,383
+384.221,384.222,2022-08-14,Sandwich,Comida rapida,Restaurante,60.00,1,60.00,Virtual,Sra.,Tarde/noche,384.221,384.222,384
+385.221,385.222,2022-08-14,Cafe frio,Bebidas,Domicilio,40.00,7,280.00,Virtual,Sr.,Tarde,385.221,385.222,385
+386.221,386.222,2022-08-14,Panipuri,Comida rapida,Restaurante,20.00,11,220.00,Virtual,Sr.,Media noche,386.221,386.222,386
+387.221,387.222,2022-08-15,Jugo cania de azucar,Bebidas,Restaurante,25.00,6,150.00,Efectivo,Sra.,Tarde,387.221,387.222,387
+388.221,388.222,2022-08-15,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Virtual,Sra.,Tarde/noche,388.221,388.222,388
+389.221,389.222,2022-08-15,Vadapav,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sr.,Media noche,389.221,389.222,389
+390.221,390.222,2022-08-15,Panipuri,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sr.,Media noche,390.221,390.222,390
+391.221,391.222,2022-08-15,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sra.,Media noche,391.221,391.222,391
+392.221,392.222,2022-08-16,Cafe frio,Bebidas,Domicilio,40.00,9,360.00,Efectivo,Sra.,Noche,392.221,392.222,392
+393.221,393.222,2022-08-16,Aalopuri,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sr.,Noche,393.221,393.222,393
+394.221,394.222,2022-08-17,Vadapav,Comida rapida,Domicilio,20.00,9,180.00,Virtual,Sr.,Maniana,394.221,394.222,394
+395.221,395.222,2022-08-17,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Efectivo,Sra.,Tarde/noche,395.221,395.222,395
+396.221,396.222,2022-08-17,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sr.,Tarde,396.221,396.222,396
+397.221,397.222,2022-08-17,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sra.,Tarde/noche,397.221,397.222,397
+398.221,398.222,2022-08-18,Jugo cania de azucar,Bebidas,Restaurante,25.00,4,100.00,Efectivo,Sr.,Tarde,398.221,398.222,398
+399.221,399.222,2022-08-18,Panipuri,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sr.,Tarde/noche,399.221,399.222,399
+400.221,400.222,2022-08-19,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sra.,Noche,400.221,400.222,400
+401.221,401.222,2022-08-20,Cafe frio,Bebidas,Domicilio,40.00,11,440.00,Virtual,Sra.,Tarde,401.221,401.222,401
+402.221,402.222,2022-08-20,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sra.,Tarde,402.221,402.222,402
+403.221,403.222,2022-08-20,Cafe frio,Bebidas,Restaurante,40.00,9,360.00,Virtual,Sr.,Maniana,403.221,403.222,403
+404.221,404.222,2022-08-21,Panipuri,Comida rapida,Restaurante,20.00,4,80.00,Virtual,Sra.,Tarde/noche,404.221,404.222,404
+405.221,405.222,2022-08-21,Aalopuri,Comida rapida,Domicilio,20.00,12,240.00,Efectivo,Sr.,Maniana,405.221,405.222,405
+406.221,406.222,2022-08-22,Panipuri,Comida rapida,Restaurante,20.00,11,220.00,Efectivo,Sra.,Noche,406.221,406.222,406
+407.221,407.222,2022-08-22,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Cheque,Sr.,Maniana,407.221,407.222,407
+408.221,408.222,2022-08-22,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Efectivo,Sr.,Noche,408.221,408.222,408
+409.221,409.222,2022-08-22,Jugo cania de azucar,Bebidas,Restaurante,25.00,7,175.00,Virtual,Sra.,Noche,409.221,409.222,409
+410.221,410.222,2022-08-22,Aalopuri,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sr.,Maniana,410.221,410.222,410
+411.221,411.222,2022-08-23,Vadapav,Comida rapida,Domicilio,20.00,15,300.00,Efectivo,Sr.,Tarde,411.221,411.222,411
+412.221,412.222,2022-08-24,Aalopuri,Comida rapida,Domicilio,20.00,15,300.00,Virtual,Sr.,Maniana,412.221,412.222,412
+413.221,413.222,2022-08-24,Cafe frio,Bebidas,Restaurante,40.00,8,320.00,Virtual,Sra.,Tarde/noche,413.221,413.222,413
+414.221,414.222,2022-08-24,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sra.,Media noche,414.221,414.222,414
+415.221,415.222,2022-08-24,Aalopuri,Comida rapida,Domicilio,20.00,5,100.00,Virtual,Sra.,Media noche,415.221,415.222,415
+416.221,416.222,2022-08-25,Cafe frio,Bebidas,Restaurante,40.00,5,200.00,Efectivo,Sr.,Noche,416.221,416.222,416
+417.221,417.222,2022-08-25,Aalopuri,Comida rapida,Domicilio,20.00,5,100.00,Efectivo,Sra.,Media noche,417.221,417.222,417
+418.221,418.222,2022-08-26,Jugo cania de azucar,Bebidas,Domicilio,25.00,13,325.00,Efectivo,Sr.,Tarde/noche,418.221,418.222,418
+419.221,419.222,2022-08-26,Cafe frio,Bebidas,Domicilio,40.00,8,320.00,Efectivo,Sr.,Tarde,419.221,419.222,419
+420.221,420.222,2022-08-26,Cafe frio,Bebidas,Domicilio,40.00,13,520.00,Efectivo,Sra.,Media noche,420.221,420.222,420
+421.221,421.222,2022-08-27,Jugo cania de azucar,Bebidas,Domicilio,25.00,6,150.00,Virtual,Sra.,Noche,421.221,421.222,421
+422.221,422.222,2022-08-27,Aalopuri,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sra.,Noche,422.221,422.222,422
+423.221,423.222,2022-08-27,Aalopuri,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sr.,Noche,423.221,423.222,423
+424.221,424.222,2022-08-27,Vadapav,Comida rapida,Restaurante,20.00,5,100.00,Cheque,Sr.,Noche,424.221,424.222,424
+425.221,425.222,2022-08-27,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Cheque,Sra.,Tarde,425.221,425.222,425
+426.221,426.222,2022-08-28,Cafe frio,Bebidas,Domicilio,40.00,12,480.00,Efectivo,Sr.,Tarde/noche,426.221,426.222,426
+427.221,427.222,2022-08-28,Jugo cania de azucar,Bebidas,Domicilio,25.00,15,375.00,Efectivo,Sra.,Noche,427.221,427.222,427
+428.221,428.222,2022-08-30,Vadapav,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sra.,Tarde,428.221,428.222,428
+429.221,429.222,2022-08-30,Sandwich,Comida rapida,Restaurante,60.00,6,360.00,Efectivo,Sra.,Noche,429.221,429.222,429
+430.221,430.222,2022-08-31,Sandwich,Comida rapida,Restaurante,60.00,1,60.00,Virtual,Sra.,Tarde/noche,430.221,430.222,430
+431.221,431.222,2022-08-31,Cafe frio,Bebidas,Restaurante,40.00,2,80.00,Efectivo,Sr.,Noche,431.221,431.222,431
+432.221,432.222,2022-08-31,Cafe frio,Bebidas,Domicilio,40.00,1,40.00,Cheque,Sr.,Maniana,432.221,432.222,432
+433.221,433.222,2022-08-31,Cafe frio,Bebidas,Domicilio,40.00,9,360.00,Efectivo,Sr.,Noche,433.221,433.222,433
+434.221,434.222,2022-08-31,Cafe frio,Bebidas,Restaurante,40.00,5,200.00,Virtual,Sra.,Noche,434.221,434.222,434
+435.221,435.222,2022-08-31,Vadapav,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sra.,Tarde,435.221,435.222,435
+436.221,436.222,2022-08-31,Vadapav,Comida rapida,Domicilio,20.00,11,220.00,Efectivo,Sr.,Maniana,436.221,436.222,436
+437.221,437.222,2022-08-31,Vadapav,Comida rapida,Restaurante,20.00,2,40.00,Efectivo,Sra.,Media noche,437.221,437.222,437
+438.221,438.222,2022-09-04,Aalopuri,Comida rapida,Restaurante,20.00,10,200.00,Efectivo,Sra.,Noche,438.221,438.222,438
+439.221,439.222,2022-09-04,Cafe frio,Bebidas,Domicilio,40.00,6,240.00,Efectivo,Sra.,Noche,439.221,439.222,439
+440.221,440.222,2022-09-04,Vadapav,Comida rapida,Domicilio,20.00,12,240.00,Virtual,Sra.,Media noche,440.221,440.222,440
+441.221,441.222,2022-09-04,Sandwich,Comida rapida,Domicilio,60.00,1,60.00,Efectivo,Sr.,Tarde/noche,441.221,441.222,441
+442.221,442.222,2022-09-05,Aalopuri,Comida rapida,Domicilio,20.00,8,160.00,Virtual,Sra.,Noche,442.221,442.222,442
+443.221,443.222,2022-09-05,Cafe frio,Bebidas,Restaurante,40.00,14,560.00,Cheque,Sra.,Maniana,443.221,443.222,443
+444.221,444.222,2022-09-05,Panipuri,Comida rapida,Restaurante,20.00,14,280.00,Virtual,Sra.,Noche,444.221,444.222,444
+445.221,445.222,2022-09-05,Frankie,Comida rapida,Restaurante,50.00,9,450.00,Virtual,Sr.,Tarde,445.221,445.222,445
+446.221,446.222,2022-09-05,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Virtual,Sra.,Maniana,446.221,446.222,446
+447.221,447.222,2022-09-05,Vadapav,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sra.,Media noche,447.221,447.222,447
+448.221,448.222,2022-09-05,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Virtual,Sr.,Noche,448.221,448.222,448
+449.221,449.222,2022-09-05,Cafe frio,Bebidas,Domicilio,40.00,4,160.00,Efectivo,Sr.,Media noche,449.221,449.222,449
+450.221,450.222,2022-09-06,Cafe frio,Bebidas,Domicilio,40.00,6,240.00,Virtual,Sr.,Tarde/noche,450.221,450.222,450
+451.221,451.222,2022-09-06,Cafe frio,Bebidas,Restaurante,40.00,7,280.00,Efectivo,Sra.,Noche,451.221,451.222,451
+452.221,452.222,2022-09-07,Aalopuri,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sra.,Media noche,452.221,452.222,452
+453.221,453.222,2022-09-07,Vadapav,Comida rapida,Domicilio,20.00,8,160.00,Efectivo,Sra.,Maniana,453.221,453.222,453
+454.221,454.222,2022-09-08,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Virtual,Sr.,Maniana,454.221,454.222,454
+455.221,455.222,2022-09-08,Sandwich,Comida rapida,Restaurante,60.00,3,180.00,Efectivo,Sra.,Tarde,455.221,455.222,455
+456.221,456.222,2022-09-08,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Virtual,Sra.,Tarde,456.221,456.222,456
+457.221,457.222,2022-09-08,Frankie,Comida rapida,Restaurante,50.00,4,200.00,Efectivo,Sr.,Tarde,457.221,457.222,457
+458.221,458.222,2022-09-08,Cafe frio,Bebidas,Domicilio,40.00,15,600.00,Efectivo,Sra.,Maniana,458.221,458.222,458
+459.221,459.222,2022-09-09,Frankie,Comida rapida,Restaurante,50.00,4,200.00,Efectivo,Sr.,Tarde,459.221,459.222,459
+460.221,460.222,2022-09-09,Jugo cania de azucar,Bebidas,Domicilio,25.00,4,100.00,Efectivo,Sra.,Maniana,460.221,460.222,460
+461.221,461.222,2022-09-09,Cafe frio,Bebidas,Domicilio,40.00,1,40.00,Virtual,Sr.,Tarde/noche,461.221,461.222,461
+462.221,462.222,2022-09-10,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Virtual,Sr.,Maniana,462.221,462.222,462
+463.221,463.222,2022-09-10,Cafe frio,Bebidas,Restaurante,40.00,12,480.00,Cheque,Sra.,Tarde,463.221,463.222,463
+464.221,464.222,2022-09-10,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sra.,Tarde/noche,464.221,464.222,464
+465.221,465.222,2022-09-10,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Efectivo,Sr.,Tarde/noche,465.221,465.222,465
+466.221,466.222,2022-09-10,Sandwich,Comida rapida,Domicilio,60.00,2,120.00,Virtual,Sr.,Tarde,466.221,466.222,466
+467.221,467.222,2022-09-10,Panipuri,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sra.,Tarde,467.221,467.222,467
+468.221,468.222,2022-09-11,Panipuri,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sr.,Maniana,468.221,468.222,468
+469.221,469.222,2022-09-12,Cafe frio,Bebidas,Restaurante,40.00,1,40.00,Efectivo,Sr.,Maniana,469.221,469.222,469
+470.221,470.222,2022-09-12,Aalopuri,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sra.,Maniana,470.221,470.222,470
+471.221,471.222,2022-09-12,Cafe frio,Bebidas,Domicilio,40.00,8,320.00,Efectivo,Sr.,Tarde/noche,471.221,471.222,471
+472.221,472.222,2022-09-12,Aalopuri,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sra.,Maniana,472.221,472.222,472
+473.221,473.222,2022-09-12,Frankie,Comida rapida,Domicilio,50.00,9,450.00,Virtual,Sra.,Noche,473.221,473.222,473
+474.221,474.222,2022-09-14,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Virtual,Sra.,Tarde/noche,474.221,474.222,474
+475.221,475.222,2022-09-14,Aalopuri,Comida rapida,Restaurante,20.00,15,300.00,Cheque,Sra.,Noche,475.221,475.222,475
+476.221,476.222,2022-09-14,Vadapav,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sra.,Tarde,476.221,476.222,476
+477.221,477.222,2022-09-14,Panipuri,Comida rapida,Domicilio,20.00,12,240.00,Virtual,Sra.,Tarde/noche,477.221,477.222,477
+478.221,478.222,2022-09-14,Vadapav,Comida rapida,Restaurante,20.00,15,300.00,Cheque,Sr.,Media noche,478.221,478.222,478
+479.221,479.222,2022-09-15,Cafe frio,Bebidas,Domicilio,40.00,10,400.00,Virtual,Sr.,Noche,479.221,479.222,479
+480.221,480.222,2022-09-15,Aalopuri,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sra.,Maniana,480.221,480.222,480
+481.221,481.222,2022-09-15,Jugo cania de azucar,Bebidas,Domicilio,25.00,4,100.00,Efectivo,Sr.,Maniana,481.221,481.222,481
+482.221,482.222,2022-09-16,Panipuri,Comida rapida,Domicilio,20.00,5,100.00,Virtual,Sr.,Tarde,482.221,482.222,482
+483.221,483.222,2022-09-16,Vadapav,Comida rapida,Restaurante,20.00,2,40.00,Efectivo,Sr.,Tarde,483.221,483.222,483
+484.221,484.222,2022-09-17,Sandwich,Comida rapida,Domicilio,60.00,12,720.00,Efectivo,Sr.,Media noche,484.221,484.222,484
+485.221,485.222,2022-09-17,Aalopuri,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sr.,Tarde/noche,485.221,485.222,485
+486.221,486.222,2022-09-18,Frankie,Comida rapida,Restaurante,50.00,8,400.00,Cheque,Sra.,Tarde,486.221,486.222,486
+487.221,487.222,2022-09-18,Aalopuri,Comida rapida,Restaurante,20.00,15,300.00,Virtual,Sr.,Noche,487.221,487.222,487
+488.221,488.222,2022-09-18,Vadapav,Comida rapida,Restaurante,20.00,5,100.00,Efectivo,Sr.,Tarde,488.221,488.222,488
+489.221,489.222,2022-09-19,Vadapav,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sra.,Media noche,489.221,489.222,489
+490.221,490.222,2022-09-19,Cafe frio,Bebidas,Restaurante,40.00,3,120.00,Virtual,Sr.,Noche,490.221,490.222,490
+491.221,491.222,2022-09-19,Cafe frio,Bebidas,Domicilio,40.00,6,240.00,Efectivo,Sr.,Noche,491.221,491.222,491
+492.221,492.222,2022-09-19,Cafe frio,Bebidas,Domicilio,40.00,4,160.00,Efectivo,Sra.,Tarde,492.221,492.222,492
+493.221,493.222,2022-09-20,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Virtual,Sra.,Noche,493.221,493.222,493
+494.221,494.222,2022-09-20,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Efectivo,Sra.,Noche,494.221,494.222,494
+495.221,495.222,2022-09-20,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Cheque,Sr.,Tarde/noche,495.221,495.222,495
+496.221,496.222,2022-09-21,Aalopuri,Comida rapida,Domicilio,20.00,9,180.00,Efectivo,Sr.,Tarde,496.221,496.222,496
+497.221,497.222,2022-09-21,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sr.,Noche,497.221,497.222,497
+498.221,498.222,2022-09-21,Cafe frio,Bebidas,Domicilio,40.00,8,320.00,Virtual,Sra.,Maniana,498.221,498.222,498
+499.221,499.222,2022-09-21,Sandwich,Comida rapida,Restaurante,60.00,9,540.00,Virtual,Sra.,Tarde,499.221,499.222,499
+500.221,500.222,2022-09-21,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Efectivo,Sr.,Media noche,500.221,500.222,500
+501.221,501.222,2022-09-21,Panipuri,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sr.,Maniana,501.221,501.222,501
+502.221,502.222,2022-09-21,Vadapav,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sr.,Media noche,502.221,502.222,502
+503.221,503.222,2022-09-22,Panipuri,Comida rapida,Restaurante,20.00,8,160.00,Cheque,Sr.,Maniana,503.221,503.222,503
+504.221,504.222,2022-09-22,Jugo cania de azucar,Bebidas,Restaurante,25.00,12,300.00,Virtual,Sra.,Media noche,504.221,504.222,504
+505.221,505.222,2022-09-23,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sra.,Tarde/noche,505.221,505.222,505
+506.221,506.222,2022-09-24,Aalopuri,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sra.,Tarde/noche,506.221,506.222,506
+507.221,507.222,2022-09-25,Cafe frio,Bebidas,Restaurante,40.00,3,120.00,Virtual,Sra.,Media noche,507.221,507.222,507
+508.221,508.222,2022-09-25,Panipuri,Comida rapida,Domicilio,20.00,13,260.00,Cheque,Sr.,Tarde,508.221,508.222,508
+509.221,509.222,2022-09-25,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sra.,Tarde/noche,509.221,509.222,509
+510.221,510.222,2022-09-25,Frankie,Comida rapida,Domicilio,50.00,6,300.00,Virtual,Sra.,Tarde/noche,510.221,510.222,510
+511.221,511.222,2022-09-27,Cafe frio,Bebidas,Domicilio,40.00,2,80.00,Cheque,Sr.,Maniana,511.221,511.222,511
+512.221,512.222,2022-09-27,Panipuri,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sr.,Tarde/noche,512.221,512.222,512
+513.221,513.222,2022-09-27,Jugo cania de azucar,Bebidas,Restaurante,25.00,7,175.00,Virtual,Sr.,Tarde,513.221,513.222,513
+514.221,514.222,2022-09-28,Frankie,Comida rapida,Restaurante,50.00,4,200.00,Cheque,Sr.,Tarde/noche,514.221,514.222,514
+515.221,515.222,2022-09-28,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sra.,Tarde/noche,515.221,515.222,515
+516.221,516.222,2022-09-29,Vadapav,Comida rapida,Domicilio,20.00,3,60.00,Cheque,Sra.,Media noche,516.221,516.222,516
+517.221,517.222,2022-09-29,Vadapav,Comida rapida,Restaurante,20.00,8,160.00,Efectivo,Sra.,Maniana,517.221,517.222,517
+518.221,518.222,2022-09-30,Jugo cania de azucar,Bebidas,Domicilio,25.00,6,150.00,Efectivo,Sr.,Media noche,518.221,518.222,518
+519.221,519.222,2022-09-30,Frankie,Comida rapida,Domicilio,50.00,13,650.00,Virtual,Sr.,Tarde,519.221,519.222,519
+520.221,520.222,2022-10-04,Vadapav,Comida rapida,Domicilio,20.00,7,140.00,Efectivo,Sra.,Media noche,520.221,520.222,520
+521.221,521.222,2022-10-04,Aalopuri,Comida rapida,Domicilio,20.00,15,300.00,Efectivo,Sra.,Tarde/noche,521.221,521.222,521
+522.221,522.222,2022-10-04,Frankie,Comida rapida,Domicilio,50.00,4,200.00,Virtual,Sra.,Tarde,522.221,522.222,522
+523.221,523.222,2022-10-05,Frankie,Comida rapida,Restaurante,50.00,14,700.00,Efectivo,Sra.,Maniana,523.221,523.222,523
+524.221,524.222,2022-10-06,Panipuri,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sra.,Maniana,524.221,524.222,524
+525.221,525.222,2022-10-06,Vadapav,Comida rapida,Domicilio,20.00,5,100.00,Virtual,Sra.,Noche,525.221,525.222,525
+526.221,526.222,2022-10-06,Cafe frio,Bebidas,Restaurante,40.00,8,320.00,Virtual,Sra.,Tarde/noche,526.221,526.222,526
+527.221,527.222,2022-10-07,Sandwich,Comida rapida,Restaurante,60.00,7,420.00,Cheque,Sr.,Maniana,527.221,527.222,527
+528.221,528.222,2022-10-07,Frankie,Comida rapida,Domicilio,50.00,2,100.00,Efectivo,Sra.,Tarde/noche,528.221,528.222,528
+529.221,529.222,2022-10-07,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Virtual,Sra.,Maniana,529.221,529.222,529
+530.221,530.222,2022-10-07,Jugo cania de azucar,Bebidas,Restaurante,25.00,5,125.00,Efectivo,Sra.,Media noche,530.221,530.222,530
+531.221,531.222,2022-10-08,Jugo cania de azucar,Bebidas,Restaurante,25.00,7,175.00,Virtual,Sr.,Tarde,531.221,531.222,531
+532.221,532.222,2022-10-08,Panipuri,Comida rapida,Domicilio,20.00,6,120.00,Cheque,Sr.,Tarde,532.221,532.222,532
+533.221,533.222,2022-10-08,Panipuri,Comida rapida,Restaurante,20.00,11,220.00,Efectivo,Sr.,Maniana,533.221,533.222,533
+534.221,534.222,2022-10-08,Panipuri,Comida rapida,Domicilio,20.00,2,40.00,Cheque,Sr.,Media noche,534.221,534.222,534
+535.221,535.222,2022-10-08,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Efectivo,Sr.,Tarde/noche,535.221,535.222,535
+536.221,536.222,2022-10-09,Jugo cania de azucar,Bebidas,Restaurante,25.00,2,50.00,Virtual,Sra.,Noche,536.221,536.222,536
+537.221,537.222,2022-10-10,Aalopuri,Comida rapida,Restaurante,20.00,12,240.00,Cheque,Sra.,Tarde,537.221,537.222,537
+538.221,538.222,2022-10-11,Frankie,Comida rapida,Domicilio,50.00,9,450.00,Efectivo,Sr.,Noche,538.221,538.222,538
+539.221,539.222,2022-10-11,Sandwich,Comida rapida,Restaurante,60.00,2,120.00,Virtual,Sra.,Tarde,539.221,539.222,539
+540.221,540.222,2022-10-12,Jugo cania de azucar,Bebidas,Domicilio,25.00,7,175.00,Cheque,Sra.,Maniana,540.221,540.222,540
+541.221,541.222,2022-10-12,Sandwich,Comida rapida,Domicilio,60.00,1,60.00,Efectivo,Sr.,Noche,541.221,541.222,541
+542.221,542.222,2022-10-12,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Efectivo,Sr.,Tarde/noche,542.221,542.222,542
+543.221,543.222,2022-10-13,Cafe frio,Bebidas,Restaurante,40.00,4,160.00,Virtual,Sra.,Tarde,543.221,543.222,543
+544.221,544.222,2022-10-13,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Virtual,Sra.,Tarde/noche,544.221,544.222,544
+545.221,545.222,2022-10-13,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Tarde,545.221,545.222,545
+546.221,546.222,2022-10-14,Jugo cania de azucar,Bebidas,Restaurante,25.00,13,325.00,Cheque,Sra.,Tarde/noche,546.221,546.222,546
+547.221,547.222,2022-10-14,Sandwich,Comida rapida,Restaurante,60.00,8,480.00,Virtual,Sr.,Tarde/noche,547.221,547.222,547
+548.221,548.222,2022-10-14,Cafe frio,Bebidas,Domicilio,40.00,14,560.00,Virtual,Sra.,Noche,548.221,548.222,548
+549.221,549.222,2022-10-15,Aalopuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sra.,Media noche,549.221,549.222,549
+550.221,550.222,2022-10-16,Panipuri,Comida rapida,Restaurante,20.00,11,220.00,Efectivo,Sra.,Maniana,550.221,550.222,550
+551.221,551.222,2022-10-16,Cafe frio,Bebidas,Restaurante,40.00,11,440.00,Efectivo,Sr.,Tarde/noche,551.221,551.222,551
+552.221,552.222,2022-10-16,Cafe frio,Bebidas,Restaurante,40.00,7,280.00,Virtual,Sra.,Tarde,552.221,552.222,552
+553.221,553.222,2022-10-16,Jugo cania de azucar,Bebidas,Restaurante,25.00,4,100.00,Efectivo,Sr.,Tarde/noche,553.221,553.222,553
+554.221,554.222,2022-10-17,Jugo cania de azucar,Bebidas,Domicilio,25.00,3,75.00,Efectivo,Sr.,Tarde,554.221,554.222,554
+555.221,555.222,2022-10-17,Frankie,Comida rapida,Restaurante,50.00,12,600.00,Efectivo,Sra.,Tarde,555.221,555.222,555
+556.221,556.222,2022-10-17,Vadapav,Comida rapida,Restaurante,20.00,4,80.00,Cheque,Sr.,Tarde,556.221,556.222,556
+557.221,557.222,2022-10-17,Aalopuri,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sr.,Maniana,557.221,557.222,557
+558.221,558.222,2022-10-18,Vadapav,Comida rapida,Domicilio,20.00,5,100.00,Virtual,Sra.,Noche,558.221,558.222,558
+559.221,559.222,2022-10-18,Jugo cania de azucar,Bebidas,Restaurante,25.00,13,325.00,Efectivo,Sr.,Maniana,559.221,559.222,559
+560.221,560.222,2022-10-18,Sandwich,Comida rapida,Restaurante,60.00,9,540.00,Virtual,Sr.,Tarde,560.221,560.222,560
+561.221,561.222,2022-10-19,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sra.,Maniana,561.221,561.222,561
+562.221,562.222,2022-10-19,Cafe frio,Bebidas,Restaurante,40.00,4,160.00,Cheque,Sra.,Media noche,562.221,562.222,562
+563.221,563.222,2022-10-20,Sandwich,Comida rapida,Restaurante,60.00,5,300.00,Virtual,Sra.,Tarde,563.221,563.222,563
+564.221,564.222,2022-10-20,Sandwich,Comida rapida,Domicilio,60.00,1,60.00,Virtual,Sra.,Media noche,564.221,564.222,564
+565.221,565.222,2022-10-20,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Virtual,Sra.,Media noche,565.221,565.222,565
+566.221,566.222,2022-10-20,Jugo cania de azucar,Bebidas,Domicilio,25.00,2,50.00,Efectivo,Sr.,Tarde,566.221,566.222,566
+567.221,567.222,2022-10-21,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Efectivo,Sra.,Noche,567.221,567.222,567
+568.221,568.222,2022-10-21,Jugo cania de azucar,Bebidas,Domicilio,25.00,10,250.00,Virtual,Sra.,Maniana,568.221,568.222,568
+569.221,569.222,2022-10-21,Sandwich,Comida rapida,Domicilio,60.00,5,300.00,Efectivo,Sr.,Maniana,569.221,569.222,569
+570.221,570.222,2022-10-22,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Virtual,Sr.,Tarde,570.221,570.222,570
+571.221,571.222,2022-10-22,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Virtual,Sra.,Maniana,571.221,571.222,571
+572.221,572.222,2022-10-22,Aalopuri,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sra.,Noche,572.221,572.222,572
+573.221,573.222,2022-10-23,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sr.,Maniana,573.221,573.222,573
+574.221,574.222,2022-10-23,Vadapav,Comida rapida,Domicilio,20.00,5,100.00,Virtual,Sr.,Tarde/noche,574.221,574.222,574
+575.221,575.222,2022-10-23,Cafe frio,Bebidas,Domicilio,40.00,9,360.00,Virtual,Sr.,Tarde,575.221,575.222,575
+576.221,576.222,2022-10-24,Cafe frio,Bebidas,Domicilio,40.00,7,280.00,Efectivo,Sra.,Tarde/noche,576.221,576.222,576
+577.221,577.222,2022-10-24,Cafe frio,Bebidas,Domicilio,40.00,11,440.00,Efectivo,Sr.,Noche,577.221,577.222,577
+578.221,578.222,2022-10-24,Aalopuri,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sr.,Maniana,578.221,578.222,578
+579.221,579.222,2022-10-26,Vadapav,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sr.,Noche,579.221,579.222,579
+580.221,580.222,2022-10-26,Jugo cania de azucar,Bebidas,Domicilio,25.00,3,75.00,Virtual,Sra.,Tarde,580.221,580.222,580
+581.221,581.222,2022-10-26,Vadapav,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sr.,Tarde/noche,581.221,581.222,581
+582.221,582.222,2022-10-27,Cafe frio,Bebidas,Domicilio,40.00,13,520.00,Virtual,Sr.,Maniana,582.221,582.222,582
+583.221,583.222,2022-10-27,Aalopuri,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sr.,Noche,583.221,583.222,583
+584.221,584.222,2022-10-27,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Efectivo,Sra.,Tarde,584.221,584.222,584
+585.221,585.222,2022-10-28,Frankie,Comida rapida,Restaurante,50.00,4,200.00,Cheque,Sra.,Tarde,585.221,585.222,585
+586.221,586.222,2022-10-28,Panipuri,Comida rapida,Domicilio,20.00,9,180.00,Virtual,Sra.,Noche,586.221,586.222,586
+587.221,587.222,2022-10-29,Vadapav,Comida rapida,Domicilio,20.00,15,300.00,Virtual,Sr.,Noche,587.221,587.222,587
+588.221,588.222,2022-10-29,Jugo cania de azucar,Bebidas,Restaurante,25.00,4,100.00,Efectivo,Sr.,Tarde/noche,588.221,588.222,588
+589.221,589.222,2022-10-30,Jugo cania de azucar,Bebidas,Domicilio,25.00,11,275.00,Efectivo,Sra.,Tarde,589.221,589.222,589
+590.221,590.222,2022-10-30,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sr.,Tarde,590.221,590.222,590
+591.221,591.222,2022-10-30,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Efectivo,Sra.,Maniana,591.221,591.222,591
+592.221,592.222,2022-10-30,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sr.,Noche,592.221,592.222,592
+593.221,593.222,2022-10-31,Frankie,Comida rapida,Restaurante,50.00,15,750.00,Virtual,Sr.,Maniana,593.221,593.222,593
+594.221,594.222,2022-10-31,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Virtual,Sra.,Maniana,594.221,594.222,594
+595.221,595.222,2022-10-31,Cafe frio,Bebidas,Domicilio,40.00,5,200.00,Virtual,Sra.,Tarde,595.221,595.222,595
+596.221,596.222,2022-11-04,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sra.,Media noche,596.221,596.222,596
+597.221,597.222,2022-11-05,Aalopuri,Comida rapida,Restaurante,20.00,4,80.00,Virtual,Sr.,Maniana,597.221,597.222,597
+598.221,598.222,2022-11-06,Cafe frio,Bebidas,Restaurante,40.00,2,80.00,Virtual,Sr.,Noche,598.221,598.222,598
+599.221,599.222,2022-11-06,Sandwich,Comida rapida,Domicilio,60.00,6,360.00,Virtual,Sr.,Media noche,599.221,599.222,599
+600.221,600.222,2022-11-06,Frankie,Comida rapida,Domicilio,50.00,13,650.00,Efectivo,Sr.,Tarde/noche,600.221,600.222,600
+601.221,601.222,2022-11-07,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Efectivo,Sr.,Tarde,601.221,601.222,601
+602.221,602.222,2022-11-07,Sandwich,Comida rapida,Domicilio,60.00,10,600.00,Virtual,Sra.,Media noche,602.221,602.222,602
+603.221,603.222,2022-11-09,Jugo cania de azucar,Bebidas,Restaurante,25.00,3,75.00,Efectivo,Sr.,Tarde/noche,603.221,603.222,603
+604.221,604.222,2022-11-09,Sandwich,Comida rapida,Restaurante,60.00,6,360.00,Efectivo,Sra.,Maniana,604.221,604.222,604
+605.221,605.222,2022-11-09,Panipuri,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sr.,Maniana,605.221,605.222,605
+606.221,606.222,2022-11-09,Aalopuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sr.,Tarde/noche,606.221,606.222,606
+607.221,607.222,2022-11-10,Aalopuri,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sra.,Maniana,607.221,607.222,607
+608.221,608.222,2022-11-10,Cafe frio,Bebidas,Domicilio,40.00,2,80.00,Virtual,Sr.,Noche,608.221,608.222,608
+609.221,609.222,2022-11-10,Jugo cania de azucar,Bebidas,Domicilio,25.00,8,200.00,Virtual,Sra.,Media noche,609.221,609.222,609
+610.221,610.222,2022-11-10,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Virtual,Sra.,Media noche,610.221,610.222,610
+611.221,611.222,2022-11-10,Aalopuri,Comida rapida,Restaurante,20.00,14,280.00,Virtual,Sr.,Media noche,611.221,611.222,611
+612.221,612.222,2022-11-10,Jugo cania de azucar,Bebidas,Domicilio,25.00,15,375.00,Cheque,Sra.,Tarde/noche,612.221,612.222,612
+613.221,613.222,2022-11-10,Cafe frio,Bebidas,Domicilio,40.00,12,480.00,Virtual,Sra.,Noche,613.221,613.222,613
+614.221,614.222,2022-11-10,Cafe frio,Bebidas,Domicilio,40.00,13,520.00,Efectivo,Sr.,Tarde,614.221,614.222,614
+615.221,615.222,2022-11-11,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Efectivo,Sr.,Tarde/noche,615.221,615.222,615
+616.221,616.222,2022-11-11,Panipuri,Comida rapida,Domicilio,20.00,11,220.00,Efectivo,Sra.,Tarde,616.221,616.222,616
+617.221,617.222,2022-11-12,Sandwich,Comida rapida,Domicilio,60.00,10,600.00,Efectivo,Sra.,Maniana,617.221,617.222,617
+618.221,618.222,2022-11-13,Cafe frio,Bebidas,Domicilio,40.00,11,440.00,Cheque,Sr.,Tarde,618.221,618.222,618
+619.221,619.222,2022-11-13,Frankie,Comida rapida,Restaurante,50.00,11,550.00,Cheque,Sr.,Tarde/noche,619.221,619.222,619
+620.221,620.222,2022-11-14,Vadapav,Comida rapida,Restaurante,20.00,10,200.00,Efectivo,Sr.,Tarde/noche,620.221,620.222,620
+621.221,621.222,2022-11-14,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Virtual,Sra.,Tarde/noche,621.221,621.222,621
+622.221,622.222,2022-11-15,Jugo cania de azucar,Bebidas,Domicilio,25.00,6,150.00,Virtual,Sra.,Media noche,622.221,622.222,622
+623.221,623.222,2022-11-15,Cafe frio,Bebidas,Restaurante,40.00,15,600.00,Virtual,Sr.,Tarde,623.221,623.222,623
+624.221,624.222,2022-11-15,Frankie,Comida rapida,Restaurante,50.00,6,300.00,Efectivo,Sra.,Tarde/noche,624.221,624.222,624
+625.221,625.222,2022-11-16,Panipuri,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sra.,Maniana,625.221,625.222,625
+626.221,626.222,2022-11-16,Vadapav,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sr.,Tarde,626.221,626.222,626
+627.221,627.222,2022-11-17,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sra.,Tarde/noche,627.221,627.222,627
+628.221,628.222,2022-11-17,Cafe frio,Bebidas,Domicilio,40.00,5,200.00,Efectivo,Sra.,Tarde,628.221,628.222,628
+629.221,629.222,2022-11-17,Panipuri,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sr.,Tarde/noche,629.221,629.222,629
+630.221,630.222,2022-11-17,Cafe frio,Bebidas,Restaurante,40.00,15,600.00,Cheque,Sra.,Tarde,630.221,630.222,630
+631.221,631.222,2022-11-18,Sandwich,Comida rapida,Domicilio,60.00,4,240.00,Virtual,Sr.,Maniana,631.221,631.222,631
+632.221,632.222,2022-11-18,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sr.,Noche,632.221,632.222,632
+633.221,633.222,2022-11-19,Frankie,Comida rapida,Restaurante,50.00,12,600.00,Virtual,Sra.,Noche,633.221,633.222,633
+634.221,634.222,2022-11-19,Frankie,Comida rapida,Restaurante,50.00,12,600.00,Cheque,Sr.,Maniana,634.221,634.222,634
+635.221,635.222,2022-11-20,Vadapav,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sr.,Tarde,635.221,635.222,635
+636.221,636.222,2022-11-20,Panipuri,Comida rapida,Domicilio,20.00,12,240.00,Efectivo,Sr.,Tarde,636.221,636.222,636
+637.221,637.222,2022-11-20,Aalopuri,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sr.,Maniana,637.221,637.222,637
+638.221,638.222,2022-11-21,Aalopuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sra.,Tarde,638.221,638.222,638
+639.221,639.222,2022-11-22,Sandwich,Comida rapida,Restaurante,60.00,10,600.00,Virtual,Sra.,Media noche,639.221,639.222,639
+640.221,640.222,2022-11-22,Cafe frio,Bebidas,Domicilio,40.00,9,360.00,Efectivo,Sr.,Tarde/noche,640.221,640.222,640
+641.221,641.222,2022-11-23,Panipuri,Comida rapida,Domicilio,20.00,11,220.00,Efectivo,Sra.,Media noche,641.221,641.222,641
+642.221,642.222,2022-11-23,Frankie,Comida rapida,Restaurante,50.00,5,250.00,Virtual,Sr.,Media noche,642.221,642.222,642
+643.221,643.222,2022-11-23,Aalopuri,Comida rapida,Restaurante,20.00,15,300.00,Virtual,Sr.,Tarde,643.221,643.222,643
+644.221,644.222,2022-11-23,Frankie,Comida rapida,Domicilio,50.00,4,200.00,Virtual,Sr.,Tarde,644.221,644.222,644
+645.221,645.222,2022-11-24,Cafe frio,Bebidas,Restaurante,40.00,3,120.00,Cheque,Sra.,Tarde/noche,645.221,645.222,645
+646.221,646.222,2022-11-24,Sandwich,Comida rapida,Restaurante,60.00,7,420.00,Efectivo,Sr.,Noche,646.221,646.222,646
+647.221,647.222,2022-11-24,Vadapav,Comida rapida,Restaurante,20.00,10,200.00,Virtual,Sra.,Maniana,647.221,647.222,647
+648.221,648.222,2022-11-25,Frankie,Comida rapida,Restaurante,50.00,4,200.00,Virtual,Sr.,Maniana,648.221,648.222,648
+649.221,649.222,2022-11-25,Cafe frio,Bebidas,Domicilio,40.00,10,400.00,Efectivo,Sr.,Maniana,649.221,649.222,649
+650.221,650.222,2022-11-25,Cafe frio,Bebidas,Domicilio,40.00,5,200.00,Efectivo,Sr.,Tarde,650.221,650.222,650
+651.221,651.222,2022-11-26,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Efectivo,Sra.,Media noche,651.221,651.222,651
+652.221,652.222,2022-11-26,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Noche,652.221,652.222,652
+653.221,653.222,2022-11-26,Cafe frio,Bebidas,Domicilio,40.00,11,440.00,Efectivo,Sr.,Noche,653.221,653.222,653
+654.221,654.222,2022-11-27,Jugo cania de azucar,Bebidas,Domicilio,25.00,13,325.00,Virtual,Sra.,Tarde,654.221,654.222,654
+655.221,655.222,2022-11-27,Jugo cania de azucar,Bebidas,Restaurante,25.00,10,250.00,Virtual,Sr.,Noche,655.221,655.222,655
+656.221,656.222,2022-11-28,Aalopuri,Comida rapida,Domicilio,20.00,7,140.00,Virtual,Sra.,Media noche,656.221,656.222,656
+657.221,657.222,2022-11-28,Aalopuri,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sr.,Tarde,657.221,657.222,657
+658.221,658.222,2022-11-28,Jugo cania de azucar,Bebidas,Domicilio,25.00,1,25.00,Efectivo,Sra.,Tarde/noche,658.221,658.222,658
+659.221,659.222,2022-11-28,Sandwich,Comida rapida,Restaurante,60.00,6,360.00,Virtual,Sra.,Media noche,659.221,659.222,659
+660.221,660.222,2022-11-28,Cafe frio,Bebidas,Restaurante,40.00,9,360.00,Cheque,Sr.,Noche,660.221,660.222,660
+661.221,661.222,2022-11-28,Vadapav,Comida rapida,Domicilio,20.00,8,160.00,Virtual,Sra.,Media noche,661.221,661.222,661
+662.221,662.222,2022-11-29,Sandwich,Comida rapida,Restaurante,60.00,10,600.00,Efectivo,Sra.,Tarde,662.221,662.222,662
+663.221,663.222,2022-11-29,Frankie,Comida rapida,Domicilio,50.00,15,750.00,Efectivo,Sra.,Media noche,663.221,663.222,663
+664.221,664.222,2022-11-29,Jugo cania de azucar,Bebidas,Restaurante,25.00,13,325.00,Virtual,Sra.,Media noche,664.221,664.222,664
+665.221,665.222,2022-11-30,Jugo cania de azucar,Bebidas,Restaurante,25.00,10,250.00,Virtual,Sra.,Tarde,665.221,665.222,665
+666.221,666.222,2022-11-30,Panipuri,Comida rapida,Restaurante,20.00,10,200.00,Virtual,Sr.,Media noche,666.221,666.222,666
+667.221,667.222,2022-12-04,Sandwich,Comida rapida,Restaurante,60.00,1,60.00,Virtual,Sr.,Maniana,667.221,667.222,667
+668.221,668.222,2022-12-04,Vadapav,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Media noche,668.221,668.222,668
+669.221,669.222,2022-12-05,Jugo cania de azucar,Bebidas,Restaurante,25.00,8,200.00,Virtual,Sr.,Noche,669.221,669.222,669
+670.221,670.222,2022-12-05,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sr.,Tarde/noche,670.221,670.222,670
+671.221,671.222,2022-12-05,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sr.,Maniana,671.221,671.222,671
+672.221,672.222,2022-12-05,Aalopuri,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sr.,Media noche,672.221,672.222,672
+673.221,673.222,2022-12-06,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Efectivo,Sr.,Noche,673.221,673.222,673
+674.221,674.222,2022-12-07,Vadapav,Comida rapida,Domicilio,20.00,8,160.00,Virtual,Sra.,Noche,674.221,674.222,674
+675.221,675.222,2022-12-07,Frankie,Comida rapida,Domicilio,50.00,13,650.00,Virtual,Sr.,Tarde/noche,675.221,675.222,675
+676.221,676.222,2022-12-08,Frankie,Comida rapida,Domicilio,50.00,15,750.00,Efectivo,Sr.,Media noche,676.221,676.222,676
+677.221,677.222,2022-12-08,Sandwich,Comida rapida,Restaurante,60.00,6,360.00,Virtual,Sr.,Tarde/noche,677.221,677.222,677
+678.221,678.222,2022-12-08,Jugo cania de azucar,Bebidas,Restaurante,25.00,15,375.00,Virtual,Sra.,Tarde/noche,678.221,678.222,678
+679.221,679.222,2022-12-09,Jugo cania de azucar,Bebidas,Restaurante,25.00,8,200.00,Efectivo,Sra.,Media noche,679.221,679.222,679
+680.221,680.222,2022-12-09,Jugo cania de azucar,Bebidas,Restaurante,25.00,15,375.00,Efectivo,Sra.,Media noche,680.221,680.222,680
+681.221,681.222,2022-12-10,Cafe frio,Bebidas,Domicilio,40.00,11,440.00,Virtual,Sra.,Tarde,681.221,681.222,681
+682.221,682.222,2022-12-10,Vadapav,Comida rapida,Restaurante,20.00,10,200.00,Efectivo,Sr.,Tarde/noche,682.221,682.222,682
+683.221,683.222,2022-12-11,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Efectivo,Sra.,Media noche,683.221,683.222,683
+684.221,684.222,2022-12-11,Cafe frio,Bebidas,Restaurante,40.00,7,280.00,Virtual,Sr.,Noche,684.221,684.222,684
+685.221,685.222,2022-12-11,Sandwich,Comida rapida,Restaurante,60.00,3,180.00,Cheque,Sra.,Media noche,685.221,685.222,685
+686.221,686.222,2022-12-11,Panipuri,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sr.,Tarde/noche,686.221,686.222,686
+687.221,687.222,2022-12-12,Aalopuri,Comida rapida,Restaurante,20.00,8,160.00,Efectivo,Sr.,Tarde,687.221,687.222,687
+688.221,688.222,2022-12-12,Aalopuri,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sra.,Tarde,688.221,688.222,688
+689.221,689.222,2022-12-12,Panipuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sr.,Tarde/noche,689.221,689.222,689
+690.221,690.222,2022-12-13,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sr.,Noche,690.221,690.222,690
+691.221,691.222,2022-12-13,Jugo cania de azucar,Bebidas,Domicilio,25.00,10,250.00,Efectivo,Sr.,Noche,691.221,691.222,691
+692.221,692.222,2022-12-13,Frankie,Comida rapida,Domicilio,50.00,15,750.00,Efectivo,Sra.,Media noche,692.221,692.222,692
+693.221,693.222,2022-12-14,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Cheque,Sr.,Noche,693.221,693.222,693
+694.221,694.222,2022-12-14,Aalopuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sra.,Maniana,694.221,694.222,694
+695.221,695.222,2022-12-14,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Virtual,Sra.,Maniana,695.221,695.222,695
+696.221,696.222,2022-12-14,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sr.,Tarde,696.221,696.222,696
+697.221,697.222,2022-12-14,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Efectivo,Sr.,Tarde,697.221,697.222,697
+698.221,698.222,2022-12-15,Vadapav,Comida rapida,Domicilio,20.00,4,80.00,Efectivo,Sra.,Maniana,698.221,698.222,698
+699.221,699.222,2022-12-15,Panipuri,Comida rapida,Domicilio,20.00,7,140.00,Cheque,Sr.,Tarde/noche,699.221,699.222,699
+700.221,700.222,2022-12-15,Vadapav,Comida rapida,Domicilio,20.00,9,180.00,Efectivo,Sra.,Tarde,700.221,700.222,700
+701.221,701.222,2022-12-16,Panipuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sr.,Noche,701.221,701.222,701
+702.221,702.222,2022-12-16,Aalopuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sr.,Noche,702.221,702.222,702
+703.221,703.222,2022-12-17,Cafe frio,Bebidas,Domicilio,40.00,2,80.00,Cheque,Sr.,Noche,703.221,703.222,703
+704.221,704.222,2022-12-17,Sandwich,Comida rapida,Domicilio,60.00,13,780.00,Virtual,Sr.,Tarde/noche,704.221,704.222,704
+705.221,705.222,2022-12-17,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sra.,Media noche,705.221,705.222,705
+706.221,706.222,2022-12-17,Panipuri,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sr.,Tarde,706.221,706.222,706
+707.221,707.222,2022-12-18,Vadapav,Comida rapida,Domicilio,20.00,10,200.00,Efectivo,Sra.,Media noche,707.221,707.222,707
+708.221,708.222,2022-12-19,Vadapav,Comida rapida,Restaurante,20.00,2,40.00,Cheque,Sr.,Maniana,708.221,708.222,708
+709.221,709.222,2022-12-20,Aalopuri,Comida rapida,Domicilio,20.00,5,100.00,Virtual,Sr.,Media noche,709.221,709.222,709
+710.221,710.222,2022-12-21,Cafe frio,Bebidas,Domicilio,40.00,15,600.00,Efectivo,Sr.,Tarde/noche,710.221,710.222,710
+711.221,711.222,2022-12-21,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Cheque,Sra.,Tarde,711.221,711.222,711
+712.221,712.222,2022-12-21,Aalopuri,Comida rapida,Domicilio,20.00,10,200.00,Virtual,Sra.,Media noche,712.221,712.222,712
+713.221,713.222,2022-12-22,Panipuri,Comida rapida,Restaurante,20.00,14,280.00,Virtual,Sr.,Noche,713.221,713.222,713
+714.221,714.222,2022-12-22,Panipuri,Comida rapida,Restaurante,20.00,9,180.00,Virtual,Sra.,Tarde,714.221,714.222,714
+715.221,715.222,2022-12-22,Panipuri,Comida rapida,Restaurante,20.00,2,40.00,Cheque,Sra.,Media noche,715.221,715.222,715
+716.221,716.222,2022-12-22,Sandwich,Comida rapida,Restaurante,60.00,12,720.00,Efectivo,Sra.,Tarde/noche,716.221,716.222,716
+717.221,717.222,2022-12-23,Aalopuri,Comida rapida,Domicilio,20.00,14,280.00,Efectivo,Sr.,Tarde/noche,717.221,717.222,717
+718.221,718.222,2022-12-23,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Virtual,Sra.,Media noche,718.221,718.222,718
+719.221,719.222,2022-12-23,Cafe frio,Bebidas,Domicilio,40.00,4,160.00,Virtual,Sra.,Media noche,719.221,719.222,719
+720.221,720.222,2022-12-24,Vadapav,Comida rapida,Restaurante,20.00,1,20.00,Virtual,Sr.,Maniana,720.221,720.222,720
+721.221,721.222,2022-12-24,Jugo cania de azucar,Bebidas,Restaurante,25.00,8,200.00,Virtual,Sr.,Tarde,721.221,721.222,721
+722.221,722.222,2022-12-24,Vadapav,Comida rapida,Restaurante,20.00,1,20.00,Virtual,Sra.,Media noche,722.221,722.222,722
+723.221,723.222,2022-12-24,Panipuri,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sra.,Maniana,723.221,723.222,723
+724.221,724.222,2022-12-24,Vadapav,Comida rapida,Restaurante,20.00,7,140.00,Virtual,Sra.,Maniana,724.221,724.222,724
+725.221,725.222,2022-12-25,Vadapav,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sra.,Tarde,725.221,725.222,725
+726.221,726.222,2022-12-25,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Efectivo,Sra.,Maniana,726.221,726.222,726
+727.221,727.222,2022-12-25,Frankie,Comida rapida,Restaurante,50.00,5,250.00,Virtual,Sr.,Tarde,727.221,727.222,727
+728.221,728.222,2022-12-25,Jugo cania de azucar,Bebidas,Domicilio,25.00,11,275.00,Virtual,Sr.,Maniana,728.221,728.222,728
+729.221,729.222,2022-12-25,Jugo cania de azucar,Bebidas,Domicilio,25.00,13,325.00,Virtual,Sr.,Media noche,729.221,729.222,729
+730.221,730.222,2022-12-26,Cafe frio,Bebidas,Restaurante,40.00,8,320.00,Efectivo,Sr.,Maniana,730.221,730.222,730
+731.221,731.222,2022-12-26,Cafe frio,Bebidas,Restaurante,40.00,12,480.00,Efectivo,Sra.,Media noche,731.221,731.222,731
+732.221,732.222,2022-12-27,Jugo cania de azucar,Bebidas,Domicilio,25.00,9,225.00,Efectivo,Sra.,Tarde,732.221,732.222,732
+733.221,733.222,2022-12-27,Vadapav,Comida rapida,Domicilio,20.00,3,60.00,Virtual,Sr.,Maniana,733.221,733.222,733
+734.221,734.222,2022-12-27,Cafe frio,Bebidas,Domicilio,40.00,11,440.00,Efectivo,Sr.,Media noche,734.221,734.222,734
+735.221,735.222,2022-12-28,Panipuri,Comida rapida,Domicilio,20.00,14,280.00,Virtual,Sra.,Maniana,735.221,735.222,735
+736.221,736.222,2022-12-28,Jugo cania de azucar,Bebidas,Domicilio,25.00,7,175.00,Efectivo,Sr.,Noche,736.221,736.222,736
+737.221,737.222,2022-12-28,Panipuri,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sra.,Noche,737.221,737.222,737
+738.221,738.222,2022-12-28,Cafe frio,Bebidas,Domicilio,40.00,1,40.00,Efectivo,Sra.,Noche,738.221,738.222,738
+739.221,739.222,2022-12-28,Aalopuri,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sr.,Tarde,739.221,739.222,739
+740.221,740.222,2022-12-29,Aalopuri,Comida rapida,Domicilio,20.00,4,80.00,Efectivo,Sr.,Maniana,740.221,740.222,740
+741.221,741.222,2022-12-29,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sra.,Media noche,741.221,741.222,741
+742.221,742.222,2022-12-29,Panipuri,Comida rapida,Restaurante,20.00,12,240.00,Cheque,Sra.,Tarde,742.221,742.222,742
+743.221,743.222,2022-12-29,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Efectivo,Sra.,Tarde/noche,743.221,743.222,743
+744.221,744.222,2022-12-30,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Efectivo,Sra.,Maniana,744.221,744.222,744
+745.221,745.222,2022-12-30,Jugo cania de azucar,Bebidas,Domicilio,25.00,2,50.00,Efectivo,Sr.,Maniana,745.221,745.222,745
+746.221,746.222,2022-12-31,Cafe frio,Bebidas,Domicilio,40.00,13,520.00,Cheque,Sra.,Noche,746.221,746.222,746
+1.231,1.232,2023-01-01,Sandwich,Comida rapida,Restaurante,60.00,13,780.00,Virtual,Sra.,Media noche,1.231,1.232,747
+2.231,2.232,2023-01-01,Aalopuri,Comida rapida,Restaurante,20.00,15,300.00,Virtual,Sr.,Noche,2.231,2.232,748
+3.231,3.232,2023-01-02,Frankie,Comida rapida,Restaurante,50.00,6,300.00,Virtual,Sra.,Maniana,3.231,3.232,749
+4.231,4.232,2023-01-02,Cafe frio,Bebidas,Restaurante,40.00,15,600.00,Efectivo,Sr.,Noche,4.231,4.232,750
+5.231,5.232,2023-01-02,Frankie,Comida rapida,Domicilio,50.00,1,50.00,Virtual,Sr.,Tarde/noche,5.231,5.232,751
+6.231,6.232,2023-01-03,Cafe frio,Bebidas,Restaurante,40.00,11,440.00,Efectivo,Sr.,Media noche,6.231,6.232,752
+7.231,7.232,2023-01-03,Jugo cania de azucar,Bebidas,Restaurante,25.00,7,175.00,Efectivo,Sra.,Tarde/noche,7.231,7.232,753
+8.231,8.232,2023-01-03,Sandwich,Comida rapida,Domicilio,60.00,4,240.00,Virtual,Sra.,Maniana,8.231,8.232,754
+9.231,9.232,2023-01-03,Vadapav,Comida rapida,Restaurante,20.00,12,240.00,Virtual,Sr.,Noche,9.231,9.232,755
+10.231,10.232,2023-01-03,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Efectivo,Sr.,Noche,10.231,10.232,756
+11.231,11.232,2023-01-13,Jugo cania de azucar,Bebidas,Domicilio,25.00,15,375.00,Cheque,Sr.,Noche,11.231,11.232,757
+12.231,12.232,2023-01-13,Panipuri,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sr.,Tarde/noche,12.231,12.232,758
+13.231,13.232,2023-01-13,Frankie,Comida rapida,Restaurante,50.00,14,700.00,Virtual,Sr.,Tarde,13.231,13.232,759
+14.231,14.232,2023-01-14,Aalopuri,Comida rapida,Restaurante,20.00,8,160.00,Virtual,Sr.,Media noche,14.231,14.232,760
+15.231,15.232,2023-01-14,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Efectivo,Sra.,Noche,15.231,15.232,761
+16.231,16.232,2023-01-14,Cafe frio,Bebidas,Domicilio,40.00,3,120.00,Efectivo,Sra.,Media noche,16.231,16.232,762
+17.231,17.232,2023-01-15,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Virtual,Sr.,Tarde/noche,17.231,17.232,763
+18.231,18.232,2023-01-15,Aalopuri,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sr.,Media noche,18.231,18.232,764
+19.231,19.232,2023-01-16,Frankie,Comida rapida,Restaurante,50.00,2,100.00,Efectivo,Sra.,Media noche,19.231,19.232,765
+20.231,20.232,2023-01-16,Panipuri,Comida rapida,Restaurante,20.00,14,280.00,Virtual,Sr.,Media noche,20.231,20.232,766
+21.231,21.232,2023-01-16,Panipuri,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sr.,Tarde/noche,21.231,21.232,767
+22.231,22.232,2023-01-16,Sandwich,Comida rapida,Restaurante,60.00,13,780.00,Cheque,Sr.,Noche,22.231,22.232,768
+23.231,23.232,2023-01-16,Sandwich,Comida rapida,Domicilio,60.00,10,600.00,Virtual,Sr.,Tarde/noche,23.231,23.232,769
+24.231,24.232,2023-01-17,Frankie,Comida rapida,Restaurante,50.00,6,300.00,Virtual,Sra.,Tarde,24.231,24.232,770
+25.231,25.232,2023-01-18,Jugo cania de azucar,Bebidas,Domicilio,25.00,5,125.00,Efectivo,Sr.,Tarde,25.231,25.232,771
+26.231,26.232,2023-01-18,Vadapav,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sra.,Tarde/noche,26.231,26.232,772
+27.231,27.232,2023-01-18,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Efectivo,Sra.,Noche,27.231,27.232,773
+28.231,28.232,2023-01-19,Sandwich,Comida rapida,Restaurante,60.00,8,480.00,Efectivo,Sr.,Noche,28.231,28.232,774
+29.231,29.232,2023-01-19,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Efectivo,Sr.,Tarde/noche,29.231,29.232,775
+30.231,30.232,2023-01-20,Cafe frio,Bebidas,Domicilio,40.00,2,80.00,Virtual,Sr.,Noche,30.231,30.232,776
+31.231,31.232,2023-01-20,Frankie,Comida rapida,Domicilio,50.00,14,700.00,Efectivo,Sr.,Media noche,31.231,31.232,777
+32.231,32.232,2023-01-20,Frankie,Comida rapida,Domicilio,50.00,6,300.00,Efectivo,Sra.,Maniana,32.231,32.232,778
+33.231,33.232,2023-01-20,Jugo cania de azucar,Bebidas,Domicilio,25.00,9,225.00,Efectivo,Sra.,Tarde/noche,33.231,33.232,779
+34.231,34.232,2023-01-21,Cafe frio,Bebidas,Domicilio,40.00,13,520.00,Cheque,Sr.,Noche,34.231,34.232,780
+35.231,35.232,2023-01-21,Panipuri,Comida rapida,Domicilio,20.00,2,40.00,Virtual,Sr.,Tarde,35.231,35.232,781
+36.231,36.232,2023-01-21,Jugo cania de azucar,Bebidas,Restaurante,25.00,15,375.00,Virtual,Sra.,Tarde,36.231,36.232,782
+37.231,37.232,2023-01-22,Panipuri,Comida rapida,Restaurante,20.00,15,300.00,Virtual,Sr.,Media noche,37.231,37.232,783
+38.231,38.232,2023-01-23,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Virtual,Sra.,Tarde,38.231,38.232,784
+39.231,39.232,2023-01-23,Jugo cania de azucar,Bebidas,Domicilio,25.00,6,150.00,Efectivo,Sra.,Noche,39.231,39.232,785
+40.231,40.232,2023-01-24,Jugo cania de azucar,Bebidas,Domicilio,25.00,8,200.00,Efectivo,Sra.,Noche,40.231,40.232,786
+41.231,41.232,2023-01-24,Aalopuri,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sr.,Media noche,41.231,41.232,787
+42.231,42.232,2023-01-25,Panipuri,Comida rapida,Restaurante,20.00,8,160.00,Efectivo,Sra.,Tarde/noche,42.231,42.232,788
+43.231,43.232,2023-01-25,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Efectivo,Sr.,Media noche,43.231,43.232,789
+44.231,44.232,2023-01-25,Panipuri,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sr.,Tarde/noche,44.231,44.232,790
+45.231,45.232,2023-01-25,Panipuri,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sr.,Tarde/noche,45.231,45.232,791
+46.231,46.232,2023-01-26,Vadapav,Comida rapida,Domicilio,20.00,14,280.00,Efectivo,Sra.,Maniana,46.231,46.232,792
+47.231,47.232,2023-01-26,Frankie,Comida rapida,Restaurante,50.00,15,750.00,Efectivo,Sr.,Media noche,47.231,47.232,793
+48.231,48.232,2023-01-26,Sandwich,Comida rapida,Restaurante,60.00,13,780.00,Cheque,Sr.,Tarde/noche,48.231,48.232,794
+49.231,49.232,2023-01-27,Frankie,Comida rapida,Restaurante,50.00,8,400.00,Virtual,Sra.,Noche,49.231,49.232,795
+50.231,50.232,2023-01-27,Panipuri,Comida rapida,Restaurante,20.00,14,280.00,Virtual,Sr.,Maniana,50.231,50.232,796
+51.231,51.232,2023-01-27,Jugo cania de azucar,Bebidas,Domicilio,25.00,7,175.00,Virtual,Sr.,Tarde,51.231,51.232,797
+52.231,52.232,2023-01-28,Frankie,Comida rapida,Domicilio,50.00,2,100.00,Efectivo,Sra.,Noche,52.231,52.232,798
+53.231,53.232,2023-01-28,Panipuri,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sr.,Noche,53.231,53.232,799
+54.231,54.232,2023-01-28,Aalopuri,Comida rapida,Domicilio,20.00,15,300.00,Virtual,Sra.,Noche,54.231,54.232,800
+55.231,55.232,2023-01-28,Vadapav,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sr.,Tarde,55.231,55.232,801
+56.231,56.232,2023-01-29,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Cheque,Sr.,Tarde,56.231,56.232,802
+57.231,57.232,2023-01-30,Cafe frio,Bebidas,Restaurante,40.00,14,560.00,Efectivo,Sr.,Tarde,57.231,57.232,803
+58.231,58.232,2023-01-30,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Virtual,Sra.,Tarde/noche,58.231,58.232,804
+59.231,59.232,2023-01-31,Cafe frio,Bebidas,Domicilio,40.00,12,480.00,Efectivo,Sr.,Maniana,59.231,59.232,805
+60.231,60.232,2023-01-31,Sandwich,Comida rapida,Domicilio,60.00,3,180.00,Efectivo,Sra.,Tarde/noche,60.231,60.232,806
+61.231,61.232,2023-01-31,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sr.,Tarde,61.231,61.232,807
+62.231,62.232,2023-01-31,Aalopuri,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sra.,Media noche,62.231,62.232,808
+63.231,63.232,2023-02-01,Jugo cania de azucar,Bebidas,Domicilio,25.00,15,375.00,Cheque,Sr.,Noche,63.231,63.232,809
+64.231,64.232,2023-02-01,Jugo cania de azucar,Bebidas,Domicilio,25.00,2,50.00,Efectivo,Sr.,Tarde/noche,64.231,64.232,810
+65.231,65.232,2023-02-01,Cafe frio,Bebidas,Domicilio,40.00,15,600.00,Virtual,Sra.,Media noche,65.231,65.232,811
+66.231,66.232,2023-02-01,Aalopuri,Comida rapida,Domicilio,20.00,12,240.00,Efectivo,Sra.,Noche,66.231,66.232,812
+67.231,67.232,2023-02-02,Cafe frio,Bebidas,Restaurante,40.00,6,240.00,Virtual,Sra.,Tarde,67.231,67.232,813
+68.231,68.232,2023-02-02,Aalopuri,Comida rapida,Restaurante,20.00,10,200.00,Efectivo,Sr.,Maniana,68.231,68.232,814
+69.231,69.232,2023-02-03,Vadapav,Comida rapida,Restaurante,20.00,11,220.00,Efectivo,Sra.,Media noche,69.231,69.232,815
+70.231,70.232,2023-02-03,Aalopuri,Comida rapida,Domicilio,20.00,12,240.00,Cheque,Sra.,Tarde,70.231,70.232,816
+71.231,71.232,2023-02-03,Aalopuri,Comida rapida,Domicilio,20.00,13,260.00,Efectivo,Sr.,Tarde,71.231,71.232,817
+72.231,72.232,2023-02-03,Frankie,Comida rapida,Domicilio,50.00,8,400.00,Efectivo,Sr.,Tarde,72.231,72.232,818
+73.231,73.232,2023-02-13,Aalopuri,Comida rapida,Domicilio,20.00,6,120.00,Cheque,Sra.,Tarde,73.231,73.232,819
+74.231,74.232,2023-02-13,Vadapav,Comida rapida,Restaurante,20.00,8,160.00,Efectivo,Sr.,Tarde/noche,74.231,74.232,820
+75.231,75.232,2023-02-13,Panipuri,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sra.,Tarde,75.231,75.232,821
+76.231,76.232,2023-02-13,Sandwich,Comida rapida,Domicilio,60.00,15,900.00,Efectivo,Sra.,Media noche,76.231,76.232,822
+77.231,77.232,2023-02-13,Sandwich,Comida rapida,Domicilio,60.00,11,660.00,Efectivo,Sra.,Tarde,77.231,77.232,823
+78.231,78.232,2023-02-13,Aalopuri,Comida rapida,Restaurante,20.00,2,40.00,Virtual,Sra.,Tarde/noche,78.231,78.232,824
+79.231,79.232,2023-02-13,Panipuri,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sr.,Media noche,79.231,79.232,825
+80.231,80.232,2023-02-14,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sra.,Media noche,80.231,80.232,826
+81.231,81.232,2023-02-14,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Efectivo,Sra.,Noche,81.231,81.232,827
+82.231,82.232,2023-02-15,Cafe frio,Bebidas,Restaurante,40.00,14,560.00,Cheque,Sr.,Tarde,82.231,82.232,828
+83.231,83.232,2023-02-15,Panipuri,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sra.,Tarde,83.231,83.232,829
+84.231,84.232,2023-02-15,Frankie,Comida rapida,Restaurante,50.00,15,750.00,Virtual,Sr.,Tarde/noche,84.231,84.232,830
+85.231,85.232,2023-02-16,Jugo cania de azucar,Bebidas,Restaurante,25.00,1,25.00,Cheque,Sra.,Media noche,85.231,85.232,831
+86.231,86.232,2023-02-16,Jugo cania de azucar,Bebidas,Restaurante,25.00,9,225.00,Efectivo,Sra.,Tarde/noche,86.231,86.232,832
+87.231,87.232,2023-02-16,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Virtual,Sr.,Tarde/noche,87.231,87.232,833
+88.231,88.232,2023-02-17,Aalopuri,Comida rapida,Domicilio,20.00,2,40.00,Cheque,Sra.,Tarde,88.231,88.232,834
+89.231,89.232,2023-02-17,Cafe frio,Bebidas,Restaurante,40.00,3,120.00,Virtual,Sra.,Media noche,89.231,89.232,835
+90.231,90.232,2023-02-17,Sandwich,Comida rapida,Restaurante,60.00,12,720.00,Efectivo,Sr.,Media noche,90.231,90.232,836
+91.231,91.232,2023-02-18,Cafe frio,Bebidas,Restaurante,40.00,15,600.00,Cheque,Sra.,Media noche,91.231,91.232,837
+92.231,92.232,2023-02-19,Vadapav,Comida rapida,Domicilio,20.00,15,300.00,Virtual,Sr.,Media noche,92.231,92.232,838
+93.231,93.232,2023-02-20,Cafe frio,Bebidas,Domicilio,40.00,8,320.00,Virtual,Sra.,Tarde/noche,93.231,93.232,839
+94.231,94.232,2023-02-20,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Virtual,Sra.,Tarde,94.231,94.232,840
+95.231,95.232,2023-02-21,Cafe frio,Bebidas,Domicilio,40.00,12,480.00,Virtual,Sra.,Maniana,95.231,95.232,841
+96.231,96.232,2023-02-21,Sandwich,Comida rapida,Restaurante,60.00,8,480.00,Efectivo,Sr.,Media noche,96.231,96.232,842
+97.231,97.232,2023-02-22,Frankie,Comida rapida,Domicilio,50.00,9,450.00,Virtual,Sr.,Tarde,97.231,97.232,843
+98.231,98.232,2023-02-22,Cafe frio,Bebidas,Restaurante,40.00,6,240.00,Efectivo,Sr.,Maniana,98.231,98.232,844
+99.231,99.232,2023-02-22,Aalopuri,Comida rapida,Domicilio,20.00,8,160.00,Efectivo,Sra.,Maniana,99.231,99.232,845
+100.231,100.232,2023-02-23,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Virtual,Sr.,Tarde,100.231,100.232,846
+101.231,101.232,2023-02-23,Cafe frio,Bebidas,Restaurante,40.00,6,240.00,Efectivo,Sra.,Maniana,101.231,101.232,847
+102.231,102.232,2023-02-23,Jugo cania de azucar,Bebidas,Domicilio,25.00,3,75.00,Virtual,Sra.,Tarde/noche,102.231,102.232,848
+103.231,103.232,2023-02-24,Sandwich,Comida rapida,Domicilio,60.00,7,420.00,Efectivo,Sr.,Maniana,103.231,103.232,849
+104.231,104.232,2023-02-24,Frankie,Comida rapida,Domicilio,50.00,7,350.00,Virtual,Sra.,Media noche,104.231,104.232,850
+105.231,105.232,2023-02-24,Cafe frio,Bebidas,Domicilio,40.00,6,240.00,Efectivo,Sra.,Noche,105.231,105.232,851
+106.231,106.232,2023-02-24,Aalopuri,Comida rapida,Domicilio,20.00,3,60.00,Cheque,Sr.,Media noche,106.231,106.232,852
+107.231,107.232,2023-02-25,Frankie,Comida rapida,Domicilio,50.00,9,450.00,Efectivo,Sra.,Tarde/noche,107.231,107.232,853
+108.231,108.232,2023-02-25,Vadapav,Comida rapida,Domicilio,20.00,2,40.00,Efectivo,Sra.,Maniana,108.231,108.232,854
+109.231,109.232,2023-02-26,Frankie,Comida rapida,Restaurante,50.00,11,550.00,Virtual,Sra.,Noche,109.231,109.232,855
+110.231,110.232,2023-02-26,Vadapav,Comida rapida,Restaurante,20.00,1,20.00,Virtual,Sr.,Maniana,110.231,110.232,856
+111.231,111.232,2023-02-26,Aalopuri,Comida rapida,Domicilio,20.00,6,120.00,Efectivo,Sra.,Media noche,111.231,111.232,857
+112.231,112.232,2023-02-26,Frankie,Comida rapida,Restaurante,50.00,8,400.00,Efectivo,Sra.,Tarde,112.231,112.232,858
+113.231,113.232,2023-02-27,Frankie,Comida rapida,Domicilio,50.00,8,400.00,Virtual,Sra.,Maniana,113.231,113.232,859
+114.231,114.232,2023-02-27,Vadapav,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sra.,Noche,114.231,114.232,860
+115.231,115.232,2023-02-27,Frankie,Comida rapida,Restaurante,50.00,15,750.00,Efectivo,Sra.,Tarde,115.231,115.232,861
+116.231,116.232,2023-02-28,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Virtual,Sr.,Media noche,116.231,116.232,862
+117.231,117.232,2023-02-28,Frankie,Comida rapida,Domicilio,50.00,6,300.00,Efectivo,Sr.,Noche,117.231,117.232,863
+118.231,118.232,2023-03-01,Cafe frio,Bebidas,Domicilio,40.00,8,320.00,Efectivo,Sr.,Noche,118.231,118.232,864
+119.231,119.232,2023-03-01,Sandwich,Comida rapida,Restaurante,60.00,10,600.00,Efectivo,Sra.,Media noche,119.231,119.232,865
+120.231,120.232,2023-03-01,Jugo cania de azucar,Bebidas,Domicilio,25.00,11,275.00,Efectivo,Sr.,Tarde,120.231,120.232,866
+121.231,121.232,2023-03-01,Vadapav,Comida rapida,Restaurante,20.00,8,160.00,Virtual,Sra.,Tarde/noche,121.231,121.232,867
+122.231,122.232,2023-03-01,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Cheque,Sra.,Noche,122.231,122.232,868
+123.231,123.232,2023-03-02,Jugo cania de azucar,Bebidas,Domicilio,25.00,6,150.00,Virtual,Sr.,Noche,123.231,123.232,869
+124.231,124.232,2023-03-02,Aalopuri,Comida rapida,Domicilio,20.00,3,60.00,Efectivo,Sra.,Tarde/noche,124.231,124.232,870
+125.231,125.232,2023-03-02,Vadapav,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sra.,Maniana,125.231,125.232,871
+126.231,126.232,2023-03-02,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Virtual,Sra.,Tarde/noche,126.231,126.232,872
+127.231,127.232,2023-03-02,Panipuri,Comida rapida,Restaurante,20.00,5,100.00,Virtual,Sra.,Tarde/noche,127.231,127.232,873
+128.231,128.232,2023-03-02,Frankie,Comida rapida,Domicilio,50.00,10,500.00,Efectivo,Sr.,Tarde/noche,128.231,128.232,874
+129.231,129.232,2023-03-02,Vadapav,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sr.,Noche,129.231,129.232,875
+130.231,130.232,2023-03-03,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Efectivo,Sr.,Media noche,130.231,130.232,876
+131.231,131.232,2023-03-03,Jugo cania de azucar,Bebidas,Domicilio,25.00,5,125.00,Cheque,Sra.,Media noche,131.231,131.232,877
+132.231,132.232,2023-03-03,Cafe frio,Bebidas,Restaurante,40.00,8,320.00,Virtual,Sra.,Maniana,132.231,132.232,878
+133.231,133.232,2023-03-03,Jugo cania de azucar,Bebidas,Domicilio,25.00,5,125.00,Efectivo,Sra.,Maniana,133.231,133.232,879
+134.231,134.232,2023-03-13,Cafe frio,Bebidas,Domicilio,40.00,14,560.00,Efectivo,Sr.,Maniana,134.231,134.232,880
+135.231,135.232,2023-03-13,Sandwich,Comida rapida,Domicilio,60.00,14,840.00,Virtual,Sra.,Noche,135.231,135.232,881
+136.231,136.232,2023-03-14,Cafe frio,Bebidas,Restaurante,40.00,8,320.00,Virtual,Sra.,Media noche,136.231,136.232,882
+137.231,137.232,2023-03-14,Frankie,Comida rapida,Restaurante,50.00,13,650.00,Efectivo,Sr.,Noche,137.231,137.232,883
+138.231,138.232,2023-03-15,Frankie,Comida rapida,Restaurante,50.00,2,100.00,Virtual,Sr.,Tarde,138.231,138.232,884
+139.231,139.232,2023-03-15,Cafe frio,Bebidas,Restaurante,40.00,4,160.00,Virtual,Sr.,Media noche,139.231,139.232,885
+140.231,140.232,2023-03-15,Jugo cania de azucar,Bebidas,Restaurante,25.00,10,250.00,Efectivo,Sra.,Media noche,140.231,140.232,886
+141.231,141.232,2023-03-15,Sandwich,Comida rapida,Domicilio,60.00,5,300.00,Efectivo,Sra.,Media noche,141.231,141.232,887
+142.231,142.232,2023-03-15,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Cheque,Sr.,Noche,142.231,142.232,888
+143.231,143.232,2023-03-15,Vadapav,Comida rapida,Restaurante,20.00,1,20.00,Virtual,Sra.,Noche,143.231,143.232,889
+144.231,144.232,2023-03-16,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Efectivo,Sra.,Media noche,144.231,144.232,890
+145.231,145.232,2023-03-16,Frankie,Comida rapida,Restaurante,50.00,11,550.00,Efectivo,Sra.,Tarde/noche,145.231,145.232,891
+146.231,146.232,2023-03-16,Aalopuri,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sra.,Media noche,146.231,146.232,892
+147.231,147.232,2023-03-16,Panipuri,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sr.,Tarde/noche,147.231,147.232,893
+148.231,148.232,2023-03-17,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Efectivo,Sra.,Media noche,148.231,148.232,894
+149.231,149.232,2023-03-17,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Cheque,Sra.,Noche,149.231,149.232,895
+150.231,150.232,2023-03-18,Jugo cania de azucar,Bebidas,Domicilio,25.00,7,175.00,Efectivo,Sra.,Tarde,150.231,150.232,896
+151.231,151.232,2023-03-18,Sandwich,Comida rapida,Domicilio,60.00,11,660.00,Virtual,Sr.,Tarde/noche,151.231,151.232,897
+152.231,152.232,2023-03-19,Jugo cania de azucar,Bebidas,Restaurante,25.00,6,150.00,Cheque,Sr.,Tarde,152.231,152.232,898
+153.231,153.232,2023-03-19,Sandwich,Comida rapida,Restaurante,60.00,13,780.00,Virtual,Sr.,Tarde/noche,153.231,153.232,899
+154.231,154.232,2023-03-19,Frankie,Comida rapida,Domicilio,50.00,9,450.00,Efectivo,Sra.,Tarde/noche,154.231,154.232,900
+155.231,155.232,2023-03-19,Frankie,Comida rapida,Domicilio,50.00,7,350.00,Efectivo,Sr.,Noche,155.231,155.232,901
+156.231,156.232,2023-03-19,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Efectivo,Sr.,Maniana,156.231,156.232,902
+157.231,157.232,2023-03-19,Panipuri,Comida rapida,Domicilio,20.00,11,220.00,Virtual,Sra.,Maniana,157.231,157.232,903
+158.231,158.232,2023-03-19,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Cheque,Sra.,Tarde/noche,158.231,158.232,904
+159.231,159.232,2023-03-20,Cafe frio,Bebidas,Restaurante,40.00,9,360.00,Efectivo,Sr.,Tarde/noche,159.231,159.232,905
+160.231,160.232,2023-03-21,Aalopuri,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sr.,Noche,160.231,160.232,906
+161.231,161.232,2023-03-21,Cafe frio,Bebidas,Restaurante,40.00,5,200.00,Efectivo,Sra.,Tarde,161.231,161.232,907
+162.231,162.232,2023-03-22,Cafe frio,Bebidas,Domicilio,40.00,6,240.00,Cheque,Sra.,Tarde/noche,162.231,162.232,908
+163.231,163.232,2023-03-23,Cafe frio,Bebidas,Restaurante,40.00,10,400.00,Efectivo,Sr.,Maniana,163.231,163.232,909
+164.231,164.232,2023-03-23,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Efectivo,Sr.,Tarde,164.231,164.232,910
+165.231,165.232,2023-03-23,Panipuri,Comida rapida,Restaurante,20.00,12,240.00,Efectivo,Sra.,Tarde,165.231,165.232,911
+166.231,166.232,2023-03-24,Cafe frio,Bebidas,Domicilio,40.00,2,80.00,Virtual,Sr.,Media noche,166.231,166.232,912
+167.231,167.232,2023-03-25,Panipuri,Comida rapida,Restaurante,20.00,14,280.00,Efectivo,Sr.,Media noche,167.231,167.232,913
+168.231,168.232,2023-03-25,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Efectivo,Sra.,Tarde,168.231,168.232,914
+169.231,169.232,2023-03-25,Aalopuri,Comida rapida,Restaurante,20.00,2,40.00,Efectivo,Sra.,Tarde,169.231,169.232,915
+170.231,170.232,2023-03-26,Vadapav,Comida rapida,Domicilio,20.00,3,60.00,Virtual,Sra.,Maniana,170.231,170.232,916
+171.231,171.232,2023-03-26,Sandwich,Comida rapida,Domicilio,60.00,1,60.00,Virtual,Sr.,Tarde/noche,171.231,171.232,917
+172.231,172.232,2023-03-26,Vadapav,Comida rapida,Domicilio,20.00,8,160.00,Virtual,Sr.,Media noche,172.231,172.232,918
+173.231,173.232,2023-03-27,Panipuri,Comida rapida,Restaurante,20.00,6,120.00,Virtual,Sr.,Tarde,173.231,173.232,919
+174.231,174.232,2023-03-27,Panipuri,Comida rapida,Domicilio,20.00,13,260.00,Virtual,Sra.,Media noche,174.231,174.232,920
+175.231,175.232,2023-03-27,Panipuri,Comida rapida,Restaurante,20.00,15,300.00,Virtual,Sr.,Media noche,175.231,175.232,921
+176.231,176.232,2023-03-27,Sandwich,Comida rapida,Restaurante,60.00,6,360.00,Efectivo,Sr.,Noche,176.231,176.232,922
+177.231,177.232,2023-03-29,Cafe frio,Bebidas,Restaurante,40.00,13,520.00,Virtual,Sr.,Tarde/noche,177.231,177.232,923
+178.231,178.232,2023-03-29,Cafe frio,Bebidas,Restaurante,40.00,14,560.00,Efectivo,Sr.,Tarde,178.231,178.232,924
+179.231,179.232,2023-03-30,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Efectivo,Sra.,Noche,179.231,179.232,925
+180.231,180.232,2023-04-01,Jugo cania de azucar,Bebidas,Domicilio,25.00,10,250.00,Virtual,Sr.,Noche,180.231,180.232,926
+181.231,181.232,2023-04-01,Panipuri,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sr.,Noche,181.231,181.232,927
+182.231,182.232,2023-04-01,Sandwich,Comida rapida,Restaurante,60.00,15,900.00,Virtual,Sr.,Noche,182.231,182.232,928
+183.231,183.232,2023-04-01,Vadapav,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sra.,Tarde/noche,183.231,183.232,929
+184.231,184.232,2023-04-02,Frankie,Comida rapida,Restaurante,50.00,12,600.00,Virtual,Sra.,Tarde/noche,184.231,184.232,930
+185.231,185.232,2023-04-02,Jugo cania de azucar,Bebidas,Domicilio,25.00,12,300.00,Efectivo,Sra.,Media noche,185.231,185.232,931
+186.231,186.232,2023-04-02,Vadapav,Comida rapida,Domicilio,20.00,15,300.00,Virtual,Sr.,Noche,186.231,186.232,932
+187.231,187.232,2023-04-03,Cafe frio,Bebidas,Restaurante,40.00,15,600.00,Efectivo,Sra.,Maniana,187.231,187.232,933
+188.231,188.232,2023-04-03,Vadapav,Comida rapida,Domicilio,20.00,9,180.00,Efectivo,Sra.,Maniana,188.231,188.232,934
+189.231,189.232,2023-05-01,Frankie,Comida rapida,Domicilio,50.00,10,500.00,Efectivo,Sr.,Noche,189.231,189.232,935
+190.231,190.232,2023-05-01,Sandwich,Comida rapida,Domicilio,60.00,11,660.00,Efectivo,Sr.,Media noche,190.231,190.232,936
+191.231,191.232,2023-05-01,Frankie,Comida rapida,Domicilio,50.00,15,750.00,Efectivo,Sr.,Maniana,191.231,191.232,937
+192.231,192.232,2023-05-01,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Efectivo,Sr.,Media noche,192.231,192.232,938
+193.231,193.232,2023-05-01,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sr.,Tarde/noche,193.231,193.232,939
+194.231,194.232,2023-05-02,Aalopuri,Comida rapida,Restaurante,20.00,13,260.00,Virtual,Sr.,Noche,194.231,194.232,940
+195.231,195.232,2023-05-02,Sandwich,Comida rapida,Restaurante,60.00,5,300.00,Virtual,Sra.,Noche,195.231,195.232,941
+196.231,196.232,2023-05-02,Cafe frio,Bebidas,Domicilio,40.00,15,600.00,Virtual,Sra.,Media noche,196.231,196.232,942
+197.231,197.232,2023-05-02,Cafe frio,Bebidas,Restaurante,40.00,12,480.00,Efectivo,Sra.,Media noche,197.231,197.232,943
+198.231,198.232,2023-05-02,Frankie,Comida rapida,Domicilio,50.00,2,100.00,Cheque,Sra.,Noche,198.231,198.232,944
+199.231,199.232,2023-05-02,Jugo cania de azucar,Bebidas,Restaurante,25.00,1,25.00,Virtual,Sr.,Noche,199.231,199.232,945
+200.231,200.232,2023-05-02,Frankie,Comida rapida,Restaurante,50.00,8,400.00,Virtual,Sr.,Noche,200.231,200.232,946
+201.231,201.232,2023-05-03,Vadapav,Comida rapida,Restaurante,20.00,5,100.00,Cheque,Sra.,Tarde/noche,201.231,201.232,947
+202.231,202.232,2023-05-03,Vadapav,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sr.,Maniana,202.231,202.232,948
+203.231,203.232,2023-05-03,Panipuri,Comida rapida,Domicilio,20.00,4,80.00,Cheque,Sra.,Maniana,203.231,203.232,949
+204.231,204.232,2023-05-03,Vadapav,Comida rapida,Domicilio,20.00,11,220.00,Efectivo,Sra.,Maniana,204.231,204.232,950
+205.231,205.232,2023-06-01,Cafe frio,Bebidas,Domicilio,40.00,10,400.00,Virtual,Sra.,Tarde,205.231,205.232,951
+206.231,206.232,2023-06-01,Frankie,Comida rapida,Restaurante,50.00,6,300.00,Virtual,Sra.,Media noche,206.231,206.232,952
+207.231,207.232,2023-06-01,Jugo cania de azucar,Bebidas,Domicilio,25.00,6,150.00,Efectivo,Sra.,Tarde,207.231,207.232,953
+208.231,208.232,2023-06-01,Sandwich,Comida rapida,Domicilio,60.00,12,720.00,Efectivo,Sr.,Media noche,208.231,208.232,954
+209.231,209.232,2023-06-02,Panipuri,Comida rapida,Domicilio,20.00,7,140.00,Efectivo,Sra.,Tarde,209.231,209.232,955
+210.231,210.232,2023-06-02,Aalopuri,Comida rapida,Domicilio,20.00,3,60.00,Virtual,Sr.,Media noche,210.231,210.232,956
+211.231,211.232,2023-06-02,Vadapav,Comida rapida,Domicilio,20.00,15,300.00,Virtual,Sra.,Noche,211.231,211.232,957
+212.231,212.232,2023-06-03,Sandwich,Comida rapida,Restaurante,60.00,7,420.00,Efectivo,Sra.,Noche,212.231,212.232,958
+213.231,213.232,2023-07-01,Panipuri,Comida rapida,Restaurante,20.00,1,20.00,Efectivo,Sra.,Tarde/noche,213.231,213.232,959
+214.231,214.232,2023-07-01,Frankie,Comida rapida,Restaurante,50.00,3,150.00,Efectivo,Sr.,Tarde,214.231,214.232,960
+215.231,215.232,2023-07-02,Sandwich,Comida rapida,Restaurante,60.00,4,240.00,Virtual,Sr.,Tarde,215.231,215.232,961
+216.231,216.232,2023-07-02,Jugo cania de azucar,Bebidas,Restaurante,25.00,10,250.00,Efectivo,Sra.,Tarde/noche,216.231,216.232,962
+217.231,217.232,2023-07-02,Aalopuri,Comida rapida,Restaurante,20.00,14,280.00,Cheque,Sr.,Media noche,217.231,217.232,963
+218.231,218.232,2023-07-02,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Efectivo,Sr.,Media noche,218.231,218.232,964
+219.231,219.232,2023-07-02,Jugo cania de azucar,Bebidas,Domicilio,25.00,14,350.00,Virtual,Sra.,Media noche,219.231,219.232,965
+220.231,220.232,2023-07-03,Panipuri,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sra.,Tarde,220.231,220.232,966
+221.231,221.232,2023-07-03,Sandwich,Comida rapida,Restaurante,60.00,1,60.00,Virtual,Sra.,Tarde/noche,221.231,221.232,967
+222.231,222.232,2023-08-02,Vadapav,Comida rapida,Domicilio,20.00,12,240.00,Virtual,Sr.,Tarde,222.231,222.232,968
+223.231,223.232,2023-08-02,Frankie,Comida rapida,Restaurante,50.00,12,600.00,Efectivo,Sra.,Tarde/noche,223.231,223.232,969
+224.231,224.232,2023-08-02,Panipuri,Comida rapida,Restaurante,20.00,3,60.00,Virtual,Sra.,Media noche,224.231,224.232,970
+225.231,225.232,2023-08-03,Panipuri,Comida rapida,Restaurante,20.00,12,240.00,Virtual,Sra.,Noche,225.231,225.232,971
+226.231,226.232,2023-08-03,Sandwich,Comida rapida,Restaurante,60.00,9,540.00,Efectivo,Sra.,Maniana,226.231,226.232,972
+227.231,227.232,2023-09-02,Vadapav,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sr.,Tarde,227.231,227.232,973
+228.231,228.232,2023-09-03,Frankie,Comida rapida,Domicilio,50.00,13,650.00,Virtual,Sr.,Tarde,228.231,228.232,974
+229.231,229.232,2023-09-03,Aalopuri,Comida rapida,Restaurante,20.00,15,300.00,Efectivo,Sr.,Maniana,229.231,229.232,975
+230.231,230.232,2023-09-03,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Virtual,Sra.,Tarde/noche,230.231,230.232,976
+231.231,231.232,2023-09-03,Jugo cania de azucar,Bebidas,Restaurante,25.00,14,350.00,Cheque,Sr.,Tarde,231.231,231.232,977
+232.231,232.232,2023-09-03,Panipuri,Comida rapida,Domicilio,20.00,4,80.00,Efectivo,Sra.,Tarde,232.231,232.232,978
+233.231,233.232,2023-09-03,Frankie,Comida rapida,Restaurante,50.00,10,500.00,Efectivo,Sra.,Tarde,233.231,233.232,979
+234.231,234.232,2023-10-01,Vadapav,Comida rapida,Restaurante,20.00,7,140.00,Efectivo,Sr.,Media noche,234.231,234.232,980
+235.231,235.232,2023-10-01,Panipuri,Comida rapida,Restaurante,20.00,7,140.00,Virtual,Sra.,Tarde,235.231,235.232,981
+236.231,236.232,2023-10-01,Cafe frio,Bebidas,Restaurante,40.00,7,280.00,Cheque,Sr.,Media noche,236.231,236.232,982
+237.231,237.232,2023-10-01,Vadapav,Comida rapida,Restaurante,20.00,9,180.00,Efectivo,Sr.,Tarde/noche,237.231,237.232,983
+238.231,238.232,2023-10-02,Jugo cania de azucar,Bebidas,Domicilio,25.00,9,225.00,Virtual,Sr.,Tarde,238.231,238.232,984
+239.231,239.232,2023-10-02,Cafe frio,Bebidas,Domicilio,40.00,10,400.00,Virtual,Sra.,Maniana,239.231,239.232,985
+240.231,240.232,2023-10-03,Aalopuri,Comida rapida,Restaurante,20.00,12,240.00,Virtual,Sra.,Tarde,240.231,240.232,986
+241.231,241.232,2023-10-03,Frankie,Comida rapida,Restaurante,50.00,7,350.00,Virtual,Sr.,Noche,241.231,241.232,987
+242.231,242.232,2023-11-01,Frankie,Comida rapida,Domicilio,50.00,9,450.00,Efectivo,Sra.,Media noche,242.231,242.232,988
+243.231,243.232,2023-11-01,Panipuri,Comida rapida,Restaurante,20.00,6,120.00,Efectivo,Sr.,Tarde/noche,243.231,243.232,989
+244.231,244.232,2023-11-01,Panipuri,Comida rapida,Restaurante,20.00,10,200.00,Cheque,Sr.,Media noche,244.231,244.232,990
+245.231,245.232,2023-11-01,Panipuri,Comida rapida,Restaurante,20.00,3,60.00,Efectivo,Sra.,Tarde,245.231,245.232,991
+246.231,246.232,2023-11-01,Panipuri,Comida rapida,Restaurante,20.00,1,20.00,Virtual,Sra.,Noche,246.231,246.232,992
+247.231,247.232,2023-11-01,Jugo cania de azucar,Bebidas,Restaurante,25.00,11,275.00,Efectivo,Sr.,Maniana,247.231,247.232,993
+248.231,248.232,2023-11-02,Jugo cania de azucar,Bebidas,Domicilio,25.00,10,250.00,Virtual,Sr.,Tarde,248.231,248.232,994
+249.231,249.232,2023-11-03,Vadapav,Comida rapida,Restaurante,20.00,7,140.00,Virtual,Sr.,Tarde,249.231,249.232,995
+250.231,250.232,2023-11-03,Aalopuri,Comida rapida,Domicilio,20.00,1,20.00,Efectivo,Sra.,Tarde,250.231,250.232,996
+251.231,251.232,2023-12-01,Aalopuri,Comida rapida,Restaurante,20.00,13,260.00,Cheque,Sr.,Tarde/noche,251.231,251.232,997
+252.231,252.232,2023-12-01,Sandwich,Comida rapida,Restaurante,60.00,14,840.00,Efectivo,Sr.,Tarde,252.231,252.232,998
+253.231,253.232,2023-12-02,Frankie,Comida rapida,Domicilio,50.00,4,200.00,Efectivo,Sr.,Noche,253.231,253.232,999
+254.231,254.232,2023-12-03,Aalopuri,Comida rapida,Domicilio,20.00,4,80.00,Efectivo,Sra.,Media noche,254.231,254.232,1000
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
