@@ -12,5 +12,5 @@ Curso de la **Maestría en Ciencia de Datos** de la [Universidad Autónoma de Nu
 - [Tarea 8.1](./Clase%201/Tarea%208.1.sql)
 - [Tarea 8.2](./Clase%201/Tarea%208.2.pdf)
 
-**La base de datos que utilizo para trabajar en MySQL es el CSV de Balaji Fast Food Sales**
+**La base de datos que utilizo para trabajar en MySQL es el CSV de Balaji Fast Food Sales.**
 **El archivo ya se encuentra dentro de mi repositorio**
